@@ -9,42 +9,45 @@ dateCreated: 2021-06-08T12:40:49.911Z
 layout: home
 ---
 
-# Welcome!
+![AXI Logo](/img/axi_insignia_hypen_512.png)
 
-Welcome to the Anti-Xeno Initiative Wiki. This is the primary repository of information gathered by the Anti-Xeno Initiative, here you will find tutorials, guides and all kinds of data regarding Thargoid Combat in Elite Dangerous.
+# Anti-Xeno Wiki
 
-Use the **Search bar** at the **top** of this page to get started
+By the Anti-Xeno Initiative
 
-![](/img/2021-06-21_15_15_32-home___anti-xeno_initiative_wiki_-_beta.png)
+Welcome to the Anti-Xeno Initiative Wiki. The primary repository for the Anti-Xeno Initiative, here you will find tutorials, guides and detailed breakdowns of Thargoid Combat and Thargoids in Elite: Dangerous.
 
-Or use the **Navigation bar** on the **left-hand** side to browse through the wiki.
+The Anti-Xeno Wiki is a collection of articles and guides written by the experience Pilots and Mentors of the Anti-Xeno Initiative Community, you can join the community for any further questions or assistance from the many talented and friendly commanders.
 
-## Common Topics
-Browse through some of our most common topics to get you started!
+Want to contribute? if you know a thing or two about AX combat you can help edit the wiki. Log in with your Discord account and contact a staff of the AXI discord server to get the editor role.
 
-- [Thargoid Interceptors](/en/interceptors)
-- [How to find Thargoids](/en/finding-thargoids)
-- [Recommended Ship Builds](/en/builds)
-- [Basic Combat Guide](/en/basic-combat-guide)
+## Popular Topics
+
+🚀 Ship Builds
+
+[Recommended Builds](/builds){: .btn } [Ship Build Theory](/shipbuildtheory){: .btn } [Build Repository](/buildrepository){: .btn }
+
+⭐ Combat Guides
+
+[Basic Combat Guide](/basic-combat-guide){: .btn } [Advanced Combat Guide](/advanced-combat-guide){: .btn } [Speedrunning Guide](/combat-speedrunning){: .btn }
+
+🛸 Thargoids
+
+[Finding Thargoids](/finding-thargoids){: .btn } [Thargoid Interceptors](/interceptors){: .btn } [Thargoid Special Attacks](/special-attacks){: .btn }
+
+## Browse All Pages
+
+<div id="pagelistbox" class="grid-container">
+    {% for page in site.pages %}
+        <a id="pagelistitem" class="grid-item" href="{{ site.baseurl }}{{ page.permalink }}"><div class="listitemtitle">{{ page.title }}</div><div class="listitemdescription">{{ page.description }}</div></a>
+    {% endfor %}
+</div>
 
 ## Credits
 
-Want to take part in the **Anti-Xeno Initiative Wiki** project? Head to our [GitHub Repository](https://github.com/antixenoinitiative/axiwiki) or join us in the [AXI discord](https://discord.gg/bqmDxdm).
-
-[![AXI Discord](https://discord.com/api/guilds/380246809076826112/embed.png?style=banner3)](https://discord.gg/bqmDxdm)
-
 A big thanks to our content and development team! ❤️
 
-**Content Creators**
-
--   CMDR Aranionros Stormrage
--   CMDR Mechan
--   CMDR Aterius
--   CMDR EuanAB
--   CMDR Avasa Siuu
--   CMDR Maligno
-
-**Translators**
+### Translators
 
 -   CMDR alterNERDtive
 -   CMDR Trex63
@@ -66,9 +69,18 @@ A big thanks to our content and development team! ❤️
 -   CMDR SGUDestiny
 -   CMDR Archiebeales
 -   CMDR Konstantine Novakov
+-   CMDR Eckee
 
-**Developers**
+### Content Creators
 
+-   CMDR Aranionros Stormrage
+-   CMDR Mechan
+-   CMDR Aterius
+-   CMDR EuanAB
+-   CMDR Avasa Siuu
+-   CMDR Maligno
+
+### Developers
+
+-   CMDR Mgram
 -   CMDR Sanctified (Willhof)
-
-And to everyone else in the Anti-Xeno Initiative who has helped make this project possible!

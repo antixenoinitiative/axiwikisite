@@ -1,5 +1,6 @@
 ---
 title: Basic Combat Guide
+permalink: /basic-combat-guide
 layout: default
 nav_order: 2
 description: The fundamental concepts of AX combat and how to fight an Interceptor.

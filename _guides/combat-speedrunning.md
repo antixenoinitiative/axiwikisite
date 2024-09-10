@@ -30,7 +30,7 @@ Time limits, for a solo Medusa kill,are as follows:
 - 6’00’’000’’’ - Large Ship
 
 Applications are to be submitted using the form below:
-https://docs.google.com/forms/d/e/1FAIpQLSf5BGMqarMg3eQnDsvu0PcPq8NaLWjH6lKlbjSHO_RaTrTSnA/viewform
+[Submissions](https://docs.google.com/forms/d/e/1FAIpQLSf5BGMqarMg3eQnDsvu0PcPq8NaLWjH6lKlbjSHO_RaTrTSnA/viewform)
 
 ## Cadeceus' Glint - "Gold" color
 
@@ -44,7 +44,7 @@ The speedboard with the latest rankings is available here:
 https://www.antixenoinitiative.com/leaderboards/speed-kills
 
 Applications are to be submitted using the form below:
-https://docs.google.com/forms/d/e/1FAIpQLSf5BGMqarMg3eQnDsvu0PcPq8NaLWjH6lKlbjSHO_RaTrTSnA/viewform
+[Submissions](https://docs.google.com/forms/d/e/1FAIpQLSf5BGMqarMg3eQnDsvu0PcPq8NaLWjH6lKlbjSHO_RaTrTSnA/viewform)
 
 Feeling skilled? Try to see if you can collect them all nine golden rings ...
 
@@ -54,7 +54,7 @@ Speedrunning is about killing a Thargoid in the shortest amount possible, withou
 
 In order to get started, the first thing you'll want to understand is the detailed behavior of Goid AI upon heart distruction. Understanding this is critical to avoid triggering "panic shields":
 
-![speedrund.png](/assets/speedrund.png =600x)
+![speedrund.png](/assets/speedrund.png)
 
 # Speedrunning Techniques
 

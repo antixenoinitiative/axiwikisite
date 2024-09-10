@@ -1,5 +1,6 @@
 ---
 title: Advanced Combat Guide
+permalink: /advanced-combat-guide
 layout: default
 nav_order: 3
 description: Based on the Odysseus Doctrine by CMDR Avasa Siuu

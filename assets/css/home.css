@@ -1,0 +1,108 @@
+.mainbox {
+    display: flex;
+    justify-content: center
+  }
+  .contentbox {
+    display: block;
+    max-width: 1200px
+  }
+  #titlebox {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap
+  }
+  #titleimg {
+    object-fit: cover;
+    width: 8rem;
+    height: 100%;
+    image-rendering: crisp-edges
+  }
+  #title {
+    margin: 0;
+    font-size: 5rem;
+    font-weight: 500;
+    line-height: 1
+  }
+  #subtitle {
+    font-size: 1.5rem;
+    color: #ff7100
+  }
+  #topic h2 {
+    margin: 0
+  }
+  #topic-icon {
+    width: 1.5rem
+  }
+  #topic-title {
+    font-size: 1.2rem;
+    font-weight: 500;
+    vertical-align: text-bottom;
+    color: #bdbdbd
+  }
+  #topic-links {
+    padding: .5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    gap: .6rem
+  }
+  #topic-links a {
+    border: 1px solid #ff7100;
+    border-radius: .3rem;
+    padding-top: .2rem;
+    padding-bottom: .2rem;
+    transition: .3s cubic-bezier(.25,.8,.5,1);
+    text-decoration: none;
+    text-align: center;
+    font-size: 1.2rem;
+    vertical-align: text-bottom
+  }
+  #topic-links a:hover {
+    background-color: hsla(27,100%,50%,.2)
+  }
+  .grid-container {
+    display: grid;
+    grid-template-columns: 1fr;
+    padding: 1rem;
+    gap: 1rem
+  }
+  @media only screen and (min-width:780px) {
+    .grid-container {
+      grid-template-columns: 1fr 1fr 1fr
+    }
+  }
+  .grid-item {
+    background-color: #1a1a1a;
+    border-radius: .3rem;
+    padding: .7rem
+  }
+  #pagelistbox {
+    padding: 1rem
+  }
+  #pagelistitem {
+    display: block;
+    padding: .7rem;
+    background-color: #1a1a1a;
+    border-radius: .3rem;
+    text-decoration: none;
+    transition: .3s cubic-bezier(.25,.8,.5,1)
+  }
+  #pagelistitem:hover {
+    background-color: #303030
+  }
+  #pagelistitem:hover .listitemdescription {
+    color: #fff
+  }
+  #pagelistitem:active {
+    background-color: #4d4d4d
+  }
+  .listitemdescription {
+    font-weight: 400;
+    font-size: .9rem;
+    color: #bdbdbd;
+    padding: 0;
+    transition: .3s cubic-bezier(.25,.8,.5,1)
+  }
+  #creditsbox h3 {
+    margin: 0
+  }

@@ -10,13 +10,13 @@ editor: markdown
 dateCreated: 2021-06-10T12:19:05.577Z
 ---
 
-# **__How to farm materials in Odyssey__**
+# How to farm materials in Odyssey
 
 ## Manufacturing Instructions (More or less for everything)
 
 Find a “impact site” PoI (use DSS on a landable planet) - these will generally have a crashed satellite with a habitat data port. Check & download Manufacturing Instructions. Relog. Rinse and repeat.
 
- ##  Weapon Schematics (For weapon upgrades)
+##  Weapon Schematics (For weapon upgrades)
 
 Find a “two containers plus crashed skimmer” or “three containers plus wrecked SRV” instance at “Irregular Markers” with a threat level. Arc Cutter and Overload container doors, cases inside will have weapon schematics aplenty (and drugs aplenty too.) Relog, rinse and repeat. “Larceny” type missions also spawn these instances - if you use a mission-spawned PoI, make sure to NOT pick up the mission item, or instance will de-spawn upon relog.
 
@@ -61,7 +61,7 @@ Fastest way for most other data is as mission rewards. Board missions can give u
 
 Mats that can be cross-traded at the bartender are usually a non-issue, as any of the relog and/or supercruise methods above will yield huge amounts of them.
 
-# __**How many materials you will need**__
+# How many materials you will need
 
 ## Suits
 
