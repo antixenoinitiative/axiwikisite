@@ -9,7 +9,7 @@ dateCreated: 2021-06-08T12:40:49.911Z
 layout: home
 ---
 
-![AXI Logo](/img/axi_insignia_hypen_512.png)
+![AXI Logo](/assets/axi_insignia_hypen_512.png)
 
 # Anti-Xeno Wiki
 
