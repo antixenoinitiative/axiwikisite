@@ -17,6 +17,17 @@ color_scheme: axistyle-dark
 
 callouts_level: loud
 
+callouts:
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+  important:
+    title: Important
+    color: yellow
+
 collections:
   guides:
     permalink: "/:collection/:path/"

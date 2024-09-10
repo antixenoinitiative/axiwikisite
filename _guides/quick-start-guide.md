@@ -1,6 +1,7 @@
 ---
 title: Quick Start
 layout: default
+nav_order: 1
 description: Here, a prescribed path is given to help newcomers find priority information and references for extended study.
 published: true
 date: 2023-09-03T03:07:47.064Z
@@ -9,19 +10,20 @@ editor: markdown
 dateCreated: 2023-08-29T14:14:04.060Z
 ---
 
-## Using AXI Wiki
-Tags: Navigation, Nav, How-to
+# Using AXI Wiki
 
 As part of navigating AXI Wiki, the left bar is a collection of links with two view modes; **Browse** which lists all AXI Wiki pages alphabetically, and **Menu** which organizes most of the AXI Wiki pages into groups; Main, Guides, Thargoids, Outfitting, Tools, and Studies. Switch between navigation modes by clicking the button next to the Home icon:
 ![navigation_bar_sample.gif](/img/navigation_bar_sample.gif)
 
 All wiki pages have a selection of tags associated with them which can be used to filter by topic, click the **Browse Tags** icon located to the right of the **Search Bar**. Short width browsers will hide the icon.
 
-> NOTE: Page tags cannot be searched by the search bar tool; only **Browse Tags** tool can use tags for navigation filtering. {.is-info}
+{: .note }
+Page tags cannot be searched by the search bar tool; only **Browse Tags** tool can use tags for navigation filtering. {.is-info}
 
 In many wiki pages, hyperlink text is used to navigate to additional content, but they look a bit different from your standard hyperlinks, with blue text and blue underlines. Hyperlinks look just like [this]() and can hide very long urls as in the case of this link to this [quick-start guide](/en/quick-start-guide) which is the same as <https://wiki.antixenoinitiative.com/en/quick-start-guide>. There have already been a few examples; however, please understand text is often emphasized using the same **orange** styling as a hyperlink without the underline.
 
 ---
+
 ## Getting Started Anti-Xeno Protocol
 
 ### Step 1 - Know Thy Enemy

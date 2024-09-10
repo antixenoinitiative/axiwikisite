@@ -1,6 +1,7 @@
 ---
 title: Basic Combat Guide
 layout: default
+nav_order: 2
 description: The fundamental concepts of AX combat and how to fight an Interceptor.
 published: true
 date: 2022-12-21T06:57:08.479Z
@@ -13,7 +14,8 @@ dateCreated: 2021-06-17T03:18:38.671Z
 
 Thargoids pose a significant combat Threat in Elite: Dangerous. To effectively destroy Thargoids it is imperative that players are aware of the mechanics and fundamentals of AX combat.
 
-> Fighting Thargoids is hard until it is easy. Prepare to die and face the rebuy screen. Medium ships are faster, cheaper to (re)buy, require less engineering, and pack roughly the same firepower as large ships due to the weapons cap on experimentals (4). Flying without using a recommended build puts you and your wingmates at risk. Be courteous to your fellow pilots! Engineering is not optional, and flying without Guardian weapons is not recommended. As always, never fly without a rebuy. For information on how to put together a AX Ship, head to our [Ship Builds](/en/builds) Section. For a basic rundown of controls on keyboard and mouse see [recommended-controls.](/en/recommended-controls)
+{: .note }
+Fighting Thargoids is hard until it is easy. Prepare to die and face the rebuy screen. Medium ships are faster, cheaper to (re)buy, require less engineering, and pack roughly the same firepower as large ships due to the weapons cap on experimentals (4). Flying without using a recommended build puts you and your wingmates at risk. Be courteous to your fellow pilots! Engineering is not optional, and flying without Guardian weapons is not recommended. As always, never fly without a rebuy. For information on how to put together a AX Ship, head to our [Ship Builds](/en/builds) Section. For a basic rundown of controls on keyboard and mouse see [recommended-controls.](/en/recommended-controls)
 
 ## The Basics
 
@@ -67,7 +69,8 @@ This disrupts the aim of the swarm. Use this same strategy if at any point you c
 
 **If the swarm is between you and the interceptor, turn around in FA-off and face the swarm.** You are now in a maneuver known as the **reverski** (demonstration right). Keep an eye on your distance to the interceptor, if it gets closer than 5 km, put it directly behind you and boost.
 
-**Note:** Wait until your boost terminates to make any course adjustments, otherwise your boost will partially kill your relative velocity to the interceptor.
+{: .note }
+Wait until your boost terminates to make any course adjustments, otherwise your boost will partially kill your relative velocity to the interceptor.
 
 Despite your weapon status on the HUD, you can target and attack the swarm with remote flak at an effective range of 7 km. When the swarm is between 4-6 km away, it will proceed in a straight line towards you. Fire your remote flak and release when the reticle turns red (accompanied by a beep). You should see green “sparks” as the swarm is destroyed. Once the swarm is closer, it will begin evasive maneuvers. **At this point, attempt to notice the pattern of movement and preemptively fire at where the targeting reticle is moving towards rather than to where it currently points.**
 
