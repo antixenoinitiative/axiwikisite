@@ -14,7 +14,7 @@ dateCreated: 2023-08-29T14:14:04.060Z
 # Using AXI Wiki
 
 As part of navigating AXI Wiki, the left bar is a collection of links with two view modes; **Browse** which lists all AXI Wiki pages alphabetically, and **Menu** which organizes most of the AXI Wiki pages into groups; Main, Guides, Thargoids, Outfitting, Tools, and Studies. Switch between navigation modes by clicking the button next to the Home icon:
-![navigation_bar_sample.gif](/assets/navigation_bar_sample.gif)
+![navigation_bar_sample.gif](/assets/images/navigation_bar_sample.gif)
 
 All wiki pages have a selection of tags associated with them which can be used to filter by topic, click the **Browse Tags** icon located to the right of the **Search Bar**. Short width browsers will hide the icon.
 

@@ -55,7 +55,7 @@ Speedrunning is about killing a Thargoid in the shortest amount possible, withou
 
 In order to get started, the first thing you'll want to understand is the detailed behavior of Goid AI upon heart distruction. Understanding this is critical to avoid triggering "panic shields":
 
-![speedrund.png](/assets/speedrund.png)
+![speedrund.png](/assets/images/speedrund.png)
 
 # Speedrunning Techniques
 
