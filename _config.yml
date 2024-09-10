@@ -1,8 +1,69 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Anti-Xeno Initiative Wiki
+description: Guides and Builds from the Anti-Xeno Initiative
 theme: just-the-docs
+repository: antixenoinitiative/axiwikisite # for github-metadata
 
-url: https://just-the-docs.github.io
 
+url: https://materiaraiding.com
+
+baseurl: ""
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Anti-Xeno Initiative Discord: https://discord.gg/antixenoinitiative
+  Github: https://github.com/antixenoinitiative/axiwikisite
+
+favicon_ico: "/assets/images/favicon.ico"
+
+color_scheme: axistyle-dark
+
+callouts_level: loud
+
+collections:
+  guides:
+    permalink: "/:collection/:path/"
+    output: true
+  thargoids:
+    permalink: "/:collection/:path/"
+    output: true
+  builds:
+    permalink: "/:collection/:path/"
+    output: true
+  science:
+    permalink: "/:collection/:path/"
+    output: true
+  studies:
+    permalink: "/:collection/:path/"
+    output: true
+
+just_the_docs:
+  collections:
+    guides:
+      name: Guides
+    thargoids:
+      name: Thargoids
+    builds:
+      name: Builds and Outfitting
+    science:
+      name: Tools and Science
+    studies:
+      name: Studies
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer content
+# appears at the bottom of every page's main content
+# Note: The footer_content option is deprecated and will be removed in a future major release. Please use `_includes/footer_custom.html` for more robust
+footer_content: "© 2024 Frontier Developments plc. Frontier and the Frontier logo are trade marks of Frontier Developments plc, variably registered around the world. All rights reserved | All content © their respective authors | AXI Wiki is a non-profit community-owned website."
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Footer "Edit this page on GitHub" link text
+gh_edit_link: true # show or hide edit this page link
+gh_edit_link_text: "Edit this page on GitHub."
+gh_edit_repository: "https://github.com/antixenoinitiative/axiwikisite" # the github URL for your repo
+gh_edit_branch: "main" # the branch that your docs is served from
+# gh_edit_source: docs # the source that your files originate from
+gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately
