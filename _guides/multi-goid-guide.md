@@ -1,6 +1,7 @@
 ---
 title: Multi-Goid Combat Guide
 layout: default
+permalink: /multi-goid-guide
 nav_order: 4
 description: How to take on multiple interceptors simultaneously
 published: true

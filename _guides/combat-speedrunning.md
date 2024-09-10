@@ -1,6 +1,7 @@
 ---
 title: Speedrunning Guide
 layout: default
+permalink: /combat-speedrunning
 nav_order: 17
 description: Can kill goids? Yes? But can you kill them quick?
 published: true

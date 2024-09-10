@@ -1,6 +1,7 @@
 ---
 title: Mechanic Bypass Guide
 layout: default
+permalink: /mechanic-bypass
 nav_order: 13
 description: How to skip certain mechanics in a thargoid fight
 published: true

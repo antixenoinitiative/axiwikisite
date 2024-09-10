@@ -1,6 +1,7 @@
 ---
 title: Staggering Gauss Fire
 layout: default
+permalink: /staggering-gauss
 nav_order: 18
 description: The advantages and different ways you can stagger gauss fire.
 published: true

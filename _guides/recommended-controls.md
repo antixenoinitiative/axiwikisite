@@ -1,6 +1,7 @@
 ---
 title: Recommended Control Scheme
 layout: default
+permalink: /recommended-controls
 nav_order: 16
 description: Best suggested controls for Combat in Elite
 published: true

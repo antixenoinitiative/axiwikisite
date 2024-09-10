@@ -1,6 +1,7 @@
 ---
 title: Engineering Materials Guide
 layout: default
+permalink: /engineering
 nav_order: 9
 description: Guide on gathering and collecting materials for engineering your ship
 published: true

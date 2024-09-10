@@ -1,6 +1,7 @@
 ---
 title: Pip Management Guide
 layout: default
+permalink: /pip-management
 nav_order: 15
 description: How to best manage pips in Thargoid Combat
 published: true

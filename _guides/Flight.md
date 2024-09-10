@@ -1,6 +1,7 @@
 ---
 title: Flight
 layout: default
+permalink: /flight
 nav_order: 10
 description: An introduction to advanced maneuvers and flight strategy for various anti-xeno activities.
 published: true

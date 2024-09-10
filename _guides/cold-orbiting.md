@@ -1,6 +1,7 @@
 ---
 title: Cold Orbiting
 layout: default
+permalink: /cold-orbiting
 nav_order: 7
 description: How to avoid damage using cold orbiting
 published: true

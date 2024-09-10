@@ -1,6 +1,7 @@
 ---
 title: Conflict Zones Guide
 layout: default
+permalink: /conflict-zones
 nav_order: 8
 description: A guide to AX Conflict Zones
 published: true

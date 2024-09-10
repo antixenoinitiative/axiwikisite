@@ -1,6 +1,7 @@
 ---
 title: Wing AX Combat
 layout: default
+permalink: /wing-combat
 nav_order: 5
 description: AX combat and how to effectively fight in wings.
 published: true

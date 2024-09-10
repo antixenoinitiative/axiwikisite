@@ -1,6 +1,7 @@
 ---
 title: Odyssey Engineering
 layout: default
+permalink: /engineering-odyssey
 nav_order: 14
 description: Guide to engineering suits and on-foot weapons
 published: true

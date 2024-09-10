@@ -1,6 +1,6 @@
 ---
 title: Caustic Blocking
-permalink: /Caustic Blocking
+permalink: /caustic-blocking
 layout: default
 nav_order: 6
 description: Advanced guide to blocking caustic missiles

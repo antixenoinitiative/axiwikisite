@@ -1,6 +1,7 @@
 ---
 title: Gibbing
 layout: default
+permalink: /gibbing
 nav_order: 11
 description: How to Insta-Gib Thargoids
 published: true

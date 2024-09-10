@@ -1,6 +1,7 @@
 ---
 title: Large Ship Guide
 layout: default
+permalink: /large-ship-guide
 nav_order: 12
 description: Combat guide for Large Ships
 published: true

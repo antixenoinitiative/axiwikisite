@@ -1,6 +1,7 @@
 ---
 title: Threat Management
 layout: default
+permalink: /threat-management
 nav_order: 19
 description: Understanding Thargoid Interceptor Threat Management
 published: true

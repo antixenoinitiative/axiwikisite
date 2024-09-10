@@ -1,6 +1,7 @@
 ---
 title: Quick Start
 layout: default
+permalink: /quick-start-guide
 nav_order: 1
 description: Here, a prescribed path is given to help newcomers find priority information and references for extended study.
 published: true
