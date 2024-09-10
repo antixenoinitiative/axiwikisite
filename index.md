@@ -38,7 +38,19 @@ Want to contribute? if you know a thing or two about AX combat you can help edit
 ## Browse All Pages
 
 <div id="pagelistbox" class="grid-container">
-    {% for page in site.pages %}
+    {% for page in site.guides %}
+        <a id="pagelistitem" class="grid-item" href="{{ site.baseurl }}{{ page.permalink }}"><div class="listitemtitle">{{ page.title }}</div><div class="listitemdescription">{{ page.description }}</div></a>
+    {% endfor %}
+    {% for page in site.thargoids %}
+        <a id="pagelistitem" class="grid-item" href="{{ site.baseurl }}{{ page.permalink }}"><div class="listitemtitle">{{ page.title }}</div><div class="listitemdescription">{{ page.description }}</div></a>
+    {% endfor %}
+    {% for page in site.builds %}
+        <a id="pagelistitem" class="grid-item" href="{{ site.baseurl }}{{ page.permalink }}"><div class="listitemtitle">{{ page.title }}</div><div class="listitemdescription">{{ page.description }}</div></a>
+    {% endfor %}
+    {% for page in site.science %}
+        <a id="pagelistitem" class="grid-item" href="{{ site.baseurl }}{{ page.permalink }}"><div class="listitemtitle">{{ page.title }}</div><div class="listitemdescription">{{ page.description }}</div></a>
+    {% endfor %}
+    {% for page in site.studies %}
         <a id="pagelistitem" class="grid-item" href="{{ site.baseurl }}{{ page.permalink }}"><div class="listitemtitle">{{ page.title }}</div><div class="listitemdescription">{{ page.description }}</div></a>
     {% endfor %}
 </div>
