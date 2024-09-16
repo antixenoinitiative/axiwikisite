@@ -19,7 +19,7 @@ This is an extensive general guide on gathering and collecting materials for eng
 
 
 # Useful Links
-- [Ship Build Theory](/en/shipbuildtheory) page - Information on how to engineer your ship
+- [Ship Build Theory]({{ site.baseurl }}/shipbuildtheory) page - Information on how to engineer your ship
 - [Elite Materials](https://sites.google.com/view/elite-materials/home) - Comprehensive summary of material sources
 - [ED Discovery](https://edcodex.info/?m=tools&entry=10) - Aids with planetary navigation, among many other useful features.
 - [Weapon Unlock Costs](https://inara.cz/elite/techbroker) - Inara keeps a list of tech broker unlock requirements.

@@ -62,7 +62,7 @@ Cold Orbiting is the practiced combination of;
  
 The goal is to be positioned outside the Thargoids target-lock lead range, the effect of which is the evasion of Thargoid projectiles and the simultaneous opportunity to be within effective range of equipped anti-xeno weaponry.
 
-Visit [Cold Orbiting](/en/cold-orbiting) for more information and video demonstrations of this flight strategy.
+Visit [Cold Orbiting]({{ site.baseurl }}/cold-orbiting) for more information and video demonstrations of this flight strategy.
 
 ## Disengagement
 
@@ -130,4 +130,4 @@ CMDR Exigeous [What is Speedbowling?](<https://youtu.be/vhbUZS3wiwY>) same as: <
 
 ---
 
-[Prev Topic: Recommended Controls](/en/recommended-controls) - End of Flight page - [Next Topic: Combat Guide](/en/advanced-combat-guide)
+[Prev Topic: Recommended Controls]({{ site.baseurl }}/recommended-controls) - End of Flight page - [Next Topic: Combat Guide]({{ site.baseurl }}/advanced-combat-guide)

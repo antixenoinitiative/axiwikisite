@@ -15,7 +15,7 @@ dateCreated: 2021-06-17T05:29:18.657Z
 
 by CMDR Aterius in collaboration with CMDR Aranionros Stormrage and CMDR Painbeaver.
 
-Large ships can be divided into two categories based on top speed. The Imperial Cutter, unlike the Anaconda, Federal Corvette, Beluga, and Type-10 is capable of outrunning a Hydra, Medusa, Cyclops, and the Thargon swarm (note the exception of the Basilisk). This allows the Cutter time to synthesize heatsinks, repair modules, and reverski the swarm (see [_AX Flight Manual_](/en/basic-combat-guide)). Other ships must tank the Thargoid for the entirety of the fight, or strategically kite using low-temperature orbiting.
+Large ships can be divided into two categories based on top speed. The Imperial Cutter, unlike the Anaconda, Federal Corvette, Beluga, and Type-10 is capable of outrunning a Hydra, Medusa, Cyclops, and the Thargon swarm (note the exception of the Basilisk). This allows the Cutter time to synthesize heatsinks, repair modules, and reverski the swarm (see [_AX Flight Manual_]({{ site.baseurl }}/basic-combat-guide)). Other ships must tank the Thargoid for the entirety of the fight, or strategically kite using low-temperature orbiting.
 
 *As of Patch 3.3 the Ship Launched Fighters can no longer take aggro of the Interceptor!*
 
@@ -51,7 +51,7 @@ The other large ships are, frankly, terrible for AX Interceptor combat. The T-10
 
 ## Large Ship Strategy
 
-See [_Strategy Section_](/en/basic-combat-guide) for details on basic Interceptor combat. The same basic pattern of swarm destruction, heart exertion, heart destruction is the same. Unlike with small/medium ships, a large ship can essentially tank the damage from the Interceptor’s main cannon. The key to success is promptly engaging the swarm, consistently utilizing SCB, managing your pips, and avoiding the lightning attack by maintaining appropriate distance.
+See [_Strategy Section_]({{ site.baseurl }}/basic-combat-guide) for details on basic Interceptor combat. The same basic pattern of swarm destruction, heart exertion, heart destruction is the same. Unlike with small/medium ships, a large ship can essentially tank the damage from the Interceptor’s main cannon. The key to success is promptly engaging the swarm, consistently utilizing SCB, managing your pips, and avoiding the lightning attack by maintaining appropriate distance.
 
 ### The First Heart
 

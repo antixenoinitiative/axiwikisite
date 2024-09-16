@@ -16,11 +16,11 @@ dateCreated: 2021-06-17T03:18:38.671Z
 Thargoids pose a significant combat Threat in Elite: Dangerous. To effectively destroy Thargoids it is imperative that players are aware of the mechanics and fundamentals of AX combat.
 
 {: .note }
-Fighting Thargoids is hard until it is easy. Prepare to die and face the rebuy screen. Medium ships are faster, cheaper to (re)buy, require less engineering, and pack roughly the same firepower as large ships due to the weapons cap on experimentals (4). Flying without using a recommended build puts you and your wingmates at risk. Be courteous to your fellow pilots! Engineering is not optional, and flying without Guardian weapons is not recommended. As always, never fly without a rebuy. For information on how to put together a AX Ship, head to our [Ship Builds](/en/builds) Section. For a basic rundown of controls on keyboard and mouse see [recommended-controls.](/en/recommended-controls)
+Fighting Thargoids is hard until it is easy. Prepare to die and face the rebuy screen. Medium ships are faster, cheaper to (re)buy, require less engineering, and pack roughly the same firepower as large ships due to the weapons cap on experimentals (4). Flying without using a recommended build puts you and your wingmates at risk. Be courteous to your fellow pilots! Engineering is not optional, and flying without Guardian weapons is not recommended. As always, never fly without a rebuy. For information on how to put together a AX Ship, head to our [Ship Builds]({{ site.baseurl }}/builds) Section. For a basic rundown of controls on keyboard and mouse see [recommended-controls.]({{ site.baseurl }}/recommended-controls)
 
 ## The Basics
 
-To destroy a Thargoid, it is important to understand its shield and regeneration capabilities. There are four variants of Thargoid Interceptors: Cyclops, Basilisk, Medusa, and Hydra. [Thargoid Interceptors](/en/interceptors) are protected by a shield which deteriorates over time. It takes 1 minute 45 seconds for a Cyclops shield to fall, 3 minutes for a Basilisk, 4 minutes for a Medusa, and 5 minutes for the Hydra. The rule of thumb is 2, 3, 4, 5. The shield will decay on its own; do not waste ammunition on the shields.
+To destroy a Thargoid, it is important to understand its shield and regeneration capabilities. There are four variants of Thargoid Interceptors: Cyclops, Basilisk, Medusa, and Hydra. [Thargoid Interceptors]({{ site.baseurl }}/interceptors) are protected by a shield which deteriorates over time. It takes 1 minute 45 seconds for a Cyclops shield to fall, 3 minutes for a Basilisk, 4 minutes for a Medusa, and 5 minutes for the Hydra. The rule of thumb is 2, 3, 4, 5. The shield will decay on its own; do not waste ammunition on the shields.
 
 The interceptor will not deploy shields until after the destruction of the first heart. Use the flight timer in the top right of your HUD to time the shield.
 
@@ -36,23 +36,23 @@ Ensure you have heatsink reloads, ax flak reloads, and gauss reloads.
 
 ## The Opening
 
-Once you drop into the [Non-Human Signal source](/en/nhss), the Thargoid will approach and scan you. Either let it scan you and turn away (if you wish to scan it), or begin firing just as it closes within 1.5 km while reversing slowly away. Stay within 1.5 km to avoid the damage falloff at range from gauss, deploy a heatsink, and begin firing, using the reload indicator on your hud to ensure you are firing immediately after your cannons reload (1.6 seconds). After you hear the sound of the heatsink eject, fire another.
+Once you drop into the [Non-Human Signal source]({{ site.baseurl }}/nhss), the Thargoid will approach and scan you. Either let it scan you and turn away (if you wish to scan it), or begin firing just as it closes within 1.5 km while reversing slowly away. Stay within 1.5 km to avoid the damage falloff at range from gauss, deploy a heatsink, and begin firing, using the reload indicator on your hud to ensure you are firing immediately after your cannons reload (1.6 seconds). After you hear the sound of the heatsink eject, fire another.
 
 *Always ensure you are protected by a heatsink when attacking the Interceptor. Orbiting the interceptor while under 20% heat allows you to entirely dodge the main cannons so long as you remain roughly 10-15 degrees out of its bore sight with high angular momentum. i.e: moving sideways or orbiting.*
 
 The interceptor will begin firing on you; depending on your shield strength (and pip management skills) boost and begin an FA-off orbit to avoid some damage.
 
-Continue firing until the heart is exerted (glows red and is listed as exerted if you have a [xeno scanner equipped](/en/internals)). At this point aim at the heart and fire. It should only take 3 direct gauss impacts for a Cyclops, 4 for a Basilisk, 5 for a Medusa, and 12.5 for a Hydra with regular ammunition.
+Continue firing until the heart is exerted (glows red and is listed as exerted if you have a [xeno scanner equipped]({{ site.baseurl }}/internals)). At this point aim at the heart and fire. It should only take 3 direct gauss impacts for a Cyclops, 4 for a Basilisk, 5 for a Medusa, and 12.5 for a Hydra with regular ammunition.
 
-Once the heart has been destroyed, transfer pips 2-4-0. Boost past the Thargoid if within 1 km, and away from the Thargoid if outside of 1 km. The Thargoid will charge yellow and begin chasing you, if it gets within range you will be hit by the [lightning](/en/special-attacks) which will disrupt your systems, kill your momentum (Regardless of FA-OFF), and drain your shields.
+Once the heart has been destroyed, transfer pips 2-4-0. Boost past the Thargoid if within 1 km, and away from the Thargoid if outside of 1 km. The Thargoid will charge yellow and begin chasing you, if it gets within range you will be hit by the [lightning]({{ site.baseurl }}/special-attacks) which will disrupt your systems, kill your momentum (Regardless of FA-OFF), and drain your shields.
 
-From this point on, fights are divided into two phases: [swarm](/en/thargon-swarms) and heart destruction. Each Thargoid has a set number of “hearts” (4 on a Cyclops, 5 on a Basilisk, 6 on a Medusa, 8 on a Hydra). After the opening, you have destroyed one heart and have ~7 minutes until the Thargoid becomes “enraged”. An enraged Thargoid will launch a new swarm, and keep replacing it as soon as it is destroyed. The entire swarm will also turn into missiles at once, destroying less armoured ships outright. Enrage means you have likely lost.
+From this point on, fights are divided into two phases: [swarm]({{ site.baseurl }}/thargon-swarms) and heart destruction. Each Thargoid has a set number of “hearts” (4 on a Cyclops, 5 on a Basilisk, 6 on a Medusa, 8 on a Hydra). After the opening, you have destroyed one heart and have ~7 minutes until the Thargoid becomes “enraged”. An enraged Thargoid will launch a new swarm, and keep replacing it as soon as it is destroyed. The entire swarm will also turn into missiles at once, destroying less armoured ships outright. Enrage means you have likely lost.
 
 Prior to attacking the next heart, you have a set time period during which the Thargoid is protected by a shield (2, 3, 4, 5 minutes for the respective Thargoid variant). In this time period you have three objectives, destroy the swarm, re-arm, and recharge your shields. After this time period and before the 6 minute mark (7 for Basilisk and Medusa, 8 for Hydra), you must exert and destroy the next heart. Otherwise the Thargoid will become enraged.
 
 ## Kiting the Swarm
 
-After you have cleared ~4 km, transfer pips to 4-2-0 and continue boosting. Your maximum speed without boost is likely less than the 450-530 m/s top speed of the interceptor and [_swarm_](/en/thargon-swarms). This time period is an opportunity to deploy a repair limpet, utilize your AFMU, and replenish your heatsinks/gauss cannons/flak launcher ammo (in roughly that order). If you have managed to put at least 6 km distance between you and the interceptor, check the position of the swarm.
+After you have cleared ~4 km, transfer pips to 4-2-0 and continue boosting. Your maximum speed without boost is likely less than the 450-530 m/s top speed of the interceptor and [_swarm_]({{ site.baseurl }}/thargon-swarms). This time period is an opportunity to deploy a repair limpet, utilize your AFMU, and replenish your heatsinks/gauss cannons/flak launcher ammo (in roughly that order). If you have managed to put at least 6 km distance between you and the interceptor, check the position of the swarm.
 
 4-2-0 pips will ensure your shields regenerate as quickly as possible while still allowing you to remain outside the interceptor’s weapon range of 3 km.
 
@@ -79,11 +79,11 @@ Keep in mind that the swarm, much like the Interceptor, also periodically goes t
 
 There are a few important differences across the Cyclops, Basilisk, Medusa, and Hydra swarms. The number of Thargons increases from 32, 64, 96, and 128. This increases their damage output and the time required to destroy them.
 
-*The Medusa and Hydra swarms are also capable of forming a ring formation. If you fire at the reticle while the ring is moving directly towards you, the AX shrapnel will not hit the members of the ring. (see:* [*_Swarm Mechanics_*](/en/thargon-swarms)*)*
+*The Medusa and Hydra swarms are also capable of forming a ring formation. If you fire at the reticle while the ring is moving directly towards you, the AX shrapnel will not hit the members of the ring. (see:* [*_Swarm Mechanics_*]({{ site.baseurl }}/thargon-swarms)*)*
 
 *One key tip to hit the ring formation is to position the “leading target reticle” off-center, approximately the distance to one of the two “brackets” on your HUD. Take a look at the Reverski Maneuver video for a visual example.*
 
-For a complete guide to swarm mechanics check out the [_Swarm Mechanics_](/en/thargon-swarms) guide.
+For a complete guide to swarm mechanics check out the [_Swarm Mechanics_]({{ site.baseurl }}/thargon-swarms) guide.
 
 ## Exertion and Destruction of Subsequent Hearts
 

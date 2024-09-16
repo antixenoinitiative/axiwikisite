@@ -21,7 +21,7 @@ All wiki pages have a selection of tags associated with them which can be used t
 {: .note }
 Page tags cannot be searched by the search bar tool; only **Browse Tags** tool can use tags for navigation filtering. {.is-info}
 
-In many wiki pages, hyperlink text is used to navigate to additional content, but they look a bit different from your standard hyperlinks, with blue text and blue underlines. Hyperlinks look just like [this]() and can hide very long urls as in the case of this link to this [quick-start guide](/en/quick-start-guide) which is the same as <https://wiki.antixenoinitiative.com/en/quick-start-guide>. There have already been a few examples; however, please understand text is often emphasized using the same **orange** styling as a hyperlink without the underline.
+In many wiki pages, hyperlink text is used to navigate to additional content, but they look a bit different from your standard hyperlinks, with blue text and blue underlines. Hyperlinks look just like [this]() and can hide very long urls as in the case of this link to this [quick-start guide]({{ site.baseurl }}/quick-start-guide) which is the same as <https://wiki.antixenoinitiative.com{{ site.baseurl }}/quick-start-guide>. There have already been a few examples; however, please understand text is often emphasized using the same **orange** styling as a hyperlink without the underline.
 
 ---
 
@@ -29,7 +29,7 @@ In many wiki pages, hyperlink text is used to navigate to additional content, bu
 
 ### Step 1 - Know Thy Enemy
 
-If you are new to anti-xeno combat or operations, then the first priority should be to learn to identify the enemy. Head to [Thargoids](/en/thargoids) wiki page and pay attention to the "Thargoid Encounters" section. Come back here when ready for the next steps; setup and maneuvering.
+If you are new to anti-xeno combat or operations, then the first priority should be to learn to identify the enemy. Head to [Thargoids]({{ site.baseurl }}/thargoids) wiki page and pay attention to the "Thargoid Encounters" section. Come back here when ready for the next steps; setup and maneuvering.
 
 ### Step 2 - Configuring Controls
 
@@ -38,20 +38,20 @@ If you are new to anti-xeno combat or operations, then the first priority should
 
 AXI wiki presumes that its audience is most interested in combat. All wiki recommendations for controls and outfitting are going to have Thargoid combat as the basis of its advice. 
 
-Visit [Recommended Controls](/en/recommended-controls) to get started with a control scheme that prioritizes precision aim. Your maneuvering should facilitate Time on Target (ToT) and your fine yaw and pitch controls become your bread and butter for bringing home the kills. Next up is maneuvering and then targeting.
+Visit [Recommended Controls]({{ site.baseurl }}/recommended-controls) to get started with a control scheme that prioritizes precision aim. Your maneuvering should facilitate Time on Target (ToT) and your fine yaw and pitch controls become your bread and butter for bringing home the kills. Next up is maneuvering and then targeting.
 
 ### Step 3 - Learn to Fly
 
-Thargoids that have engaged in combat are merciless. Survival is dependent on the pilot's ability to maneuver out of the way of incoming fire. Many strategies can be employed to great success. A variety of activities are covered in the [Flight Guide](/en/Flight). Regardless of the pilot's build strategy, an understanding and practice of [Cold Orbiting](/en/cold-orbiting) will assist to ensure the survival of the pilot during any Thargoid encounter.
+Thargoids that have engaged in combat are merciless. Survival is dependent on the pilot's ability to maneuver out of the way of incoming fire. Many strategies can be employed to great success. A variety of activities are covered in the [Flight Guide]({{ site.baseurl }}/Flight). Regardless of the pilot's build strategy, an understanding and practice of [Cold Orbiting]({{ site.baseurl }}/cold-orbiting) will assist to ensure the survival of the pilot during any Thargoid encounter.
 
 ### Step 4 - Learn to Disengage
 
-Flight strategies should encompass getting into and out of combat with Thargoids. If you read the entire flight guide, you'll know this step 4 is a major section in the flight guide, [Disengagement](/en/Flight#disengagement).
+Flight strategies should encompass getting into and out of combat with Thargoids. If you read the entire flight guide, you'll know this step 4 is a major section in the flight guide, [Disengagement]({{ site.baseurl }}/Flight#disengagement).
 
 ### Step 5 - Learn to Fight
 
-Once you know how to survive in the event of a Thargoid encounter, you gain options for going on the offensive. Visit [Advanced Combat Guide](/en/advanced-combat-guide) to get an introduction to a successful offensive strategy to combat with Thargoids.
+Once you know how to survive in the event of a Thargoid encounter, you gain options for going on the offensive. Visit [Advanced Combat Guide]({{ site.baseurl }}/advanced-combat-guide) to get an introduction to a successful offensive strategy to combat with Thargoids.
 
 What comes next is up to you! Curiosity is your best friend to learning all about Thargoids and Elite. If there is anything in particular you find yourself curious about and cannot find it by searching the AXI wiki, try communicating in the AXI discord. With over 5,000 members, the AXI discord is very active and welcoming!
 
-Please check out the many resources provided by the AXI wiki [Home](/en/home).
+Please check out the many resources provided by the AXI wiki [Home]({{ site.baseurl }}/home).

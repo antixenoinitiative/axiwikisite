@@ -13,11 +13,11 @@ dateCreated: 2021-06-21T02:30:49.657Z
 
 # Sleep Phase Mechanics
 
-Thargoid Interceptors use various special abilities (read more about these in our [Special Attacks](/en/special-attacks) page) which occur whenever a Thargoid Heart is broken. The Caustic Missiles, Shutdown Pulse and the Panic Shield Regeneration abilities require the Interceptor to have a **Target Lock** for it to be able to activate them (similar to how seeker missiles work).
+Thargoid Interceptors use various special abilities (read more about these in our [Special Attacks]({{ site.baseurl }}/special-attacks) page) which occur whenever a Thargoid Heart is broken. The Caustic Missiles, Shutdown Pulse and the Panic Shield Regeneration abilities require the Interceptor to have a **Target Lock** for it to be able to activate them (similar to how seeker missiles work).
 
 When the Thargoid Heart is broken, it will begin looking for a **Target Lock**. The Interceptor can only make a **Target Lock** when the current active target (most damage dealt) has a heat signature above the **minimum detection threshold** (~20%) or are within the **minimum detection range** (~700m).
 
-The Interceptor will continue to try and get a **Target Lock** on the current target until **35** **Seconds** have passed. This is called the **“Sleep Phase”**. After this period, the Interceptor will give up on getting a target lock, deploy new [Thargon Swarms](/en/thargon-swarms) (if one is not already active) and continue the fight. _Effectively skipping any Caustic Missiles or Shutdown Fields that were due for that Heart_
+The Interceptor will continue to try and get a **Target Lock** on the current target until **35** **Seconds** have passed. This is called the **“Sleep Phase”**. After this period, the Interceptor will give up on getting a target lock, deploy new [Thargon Swarms]({{ site.baseurl }}/thargon-swarms) (if one is not already active) and continue the fight. _Effectively skipping any Caustic Missiles or Shutdown Fields that were due for that Heart_
 
 > If the current target can **maintain minimum distance** and **stay cold/silent running**, the Thargoid Interceptor will not be able to get a **Target Lock** and will not deploy its **special abilities**.
 {.is-info}
@@ -30,9 +30,9 @@ If you destroyed the previous swarm **during** the current sleep phase, the Thar
 
 ### Solo Tactics
 
-In a solo fight, the Sleep Mechanics can be used to skip the special abilities (**Shutdown Pulse** and **Caustic Missiles**) and also open up a window of opportunity to use **ramming tactics** to destroy the [Thargoid Shields](/en/shields) very quickly.
+In a solo fight, the Sleep Mechanics can be used to skip the special abilities (**Shutdown Pulse** and **Caustic Missiles**) and also open up a window of opportunity to use **ramming tactics** to destroy the [Thargoid Shields]({{ site.baseurl }}/shields) very quickly.
 
-When you break the heart of a Thargoid (using either Heatsinks, Silent Running or a [Thermal Vent Beam Laser](/en/lasers)) reduce your ships temperature below the **minimum detection threshold** (~20%) and wait **35** **Seconds**. This will allow you to skip the Special mechanics.
+When you break the heart of a Thargoid (using either Heatsinks, Silent Running or a [Thermal Vent Beam Laser]({{ site.baseurl }}/lasers)) reduce your ships temperature below the **minimum detection threshold** (~20%) and wait **35** **Seconds**. This will allow you to skip the Special mechanics.
 
 This does not allow you to skip the lightning attack after the first heart!
 
@@ -62,7 +62,7 @@ For Example:
 
 1. Destroy the Heart
 1. CMDR 1 goes cold and holds the Thargoid using only Heatsinks or silent running (no TV beam)
-1. CMDR 2 uses a TV beam to take the [**Aggro**](/en/threat-management) and cause a target swap to occur.
+1. CMDR 2 uses a TV beam to take the [**Aggro**]({{ site.baseurl }}/threat-management) and cause a target swap to occur.
 1. CMDR 1 uses the **Target Swap Lockout** window to ram the interceptor and destroy it’s shields.
 
 Of course, any damage dealt during the **Target Swap Lockout** will count towards the next aggro change once the timeout expires.
@@ -71,7 +71,7 @@ Additionally, once the shield is removed in this manner, everyone but the aggro-
 
 ### Panic Shields
 
-*For a more detailed overview on panic shields, see* [***_Thargoid Shields_***](/en/shields)
+*For a more detailed overview on panic shields, see* [***_Thargoid Shields_***]({{ site.baseurl }}/shields)
 
 A Panic shield is an instantly-regenerated shield that the Thargoid Interceptor can create if the shield is broken too soon after losing a heart. The panic shield will also activate if the Interceptor shield is broken prior to the “Sleep Phase” ending, however this **requires** a **Target Lock** and if the ‘current target’ remains undetected, the shield will not regenerate.
 

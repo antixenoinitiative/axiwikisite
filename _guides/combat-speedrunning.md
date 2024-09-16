@@ -77,7 +77,7 @@ TBD
 
 # Speedrunning builds
 
-See [speedrunbuilds](/en/speedrunbuilds)
+See [speedrunbuilds]({{ site.baseurl }}/speedrunbuilds)
 
 # Speedrunning Tutorial
 

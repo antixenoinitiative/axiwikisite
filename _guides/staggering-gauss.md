@@ -12,7 +12,7 @@ dateCreated: 2021-06-24T06:27:14.908Z
 ---
 
 # Staggering Gauss
-Dividing your gauss into 2 per trigger is a very helpful tool for heat management and is critical to performing successful [Cold Orbiting](/en/cold-orbiting).
+Dividing your gauss into 2 per trigger is a very helpful tool for heat management and is critical to performing successful [Cold Orbiting]({{ site.baseurl }}/cold-orbiting).
 
 there are 4 main ways of doing it (+ a "bonus one", if we wanna call it that):
 - all at once

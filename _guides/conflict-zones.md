@@ -13,7 +13,7 @@ dateCreated: 2021-06-21T02:06:34.482Z
 
 # Introduction
 
-The following is a guide into the tactics that can ensure your survival, and eventual success, in the hectic and brutal warzones known as AX Conflict Zones (AXCZs). It is expected that you are familiar with the [_AX Flight Manual_](/en/basic-combat-guide), as that guide covers many important aspects of fighting Thargoids. AXCZs can be quite difficult, so it’s not generally not advised to try them solo unless you are comfortable with soloing at least a Basilisk.
+The following is a guide into the tactics that can ensure your survival, and eventual success, in the hectic and brutal warzones known as AX Conflict Zones (AXCZs). It is expected that you are familiar with the [_AX Flight Manual_]({{ site.baseurl }}/basic-combat-guide), as that guide covers many important aspects of fighting Thargoids. AXCZs can be quite difficult, so it’s not generally not advised to try them solo unless you are comfortable with soloing at least a Basilisk.
 
 In general, you will tend to find a mix of Interceptors (up to and including Hydras) supported by a large force of scouts. Anti-Xeno NPCs will also be present to assist during the fight, but do not expect them to be able to carry you to victory.
 
@@ -23,9 +23,9 @@ When it comes to looking for AXCZs, you will be able to find them in systems in 
 
 Whilst standard AX builds may seem like a good idea, there are a few modifications you will need to make in order to better stand a chance in an AXCZ.
 
-Read more about general Anti-Xeno ships in our [Ship Builds Section](/en/builds).
+Read more about general Anti-Xeno ships in our [Ship Builds Section]({{ site.baseurl }}/builds).
 
-Firstly, [decontamination limpets](/en/internals) (or use of an alternative such as overheating) are highly recommended. Unlike solo Interceptor fights, you are very likely to have the caustic DoT effect applied to you (and not just once either). As with repair limpets, higher class controllers are recommended due to the greater repair rate. Along with a decontamination limpet controller, you will obviously want a cargo rack. You will need a lot of limpets, so a C4 or larger is recommended.
+Firstly, [decontamination limpets]({{ site.baseurl }}/internals) (or use of an alternative such as overheating) are highly recommended. Unlike solo Interceptor fights, you are very likely to have the caustic DoT effect applied to you (and not just once either). As with repair limpets, higher class controllers are recommended due to the greater repair rate. Along with a decontamination limpet controller, you will obviously want a cargo rack. You will need a lot of limpets, so a C4 or larger is recommended.
 
 Having a Shutdown Field Neutraliser can be very helpful, since Shutdown Pulses happen very often within an AXCZ. The usual cold mechanics can still be used, but NPCs will often trigger the last heart pulses in addition to the pulses when a new interceptor drops in.
 
@@ -48,7 +48,7 @@ Once you enter the AXCZ, a number of AX NPCs and Thargoid Scouts will appear. Mo
 
 The first wave of the AX Conflict Zone consists of 10-20 Scouts. Most of these are Marauders, but several will be special variants - the Regenerator, Berserker and Inciter. It is important that these special scouts are prioritized over the regular Marauders because their special abilities can turn the otherwise insignificant threat of the Scouts into a very real danger.
 
-Read more about scouts [here](/en/scouts).
+Read more about scouts [here]({{ site.baseurl }}/scouts).
 
 Without a Xeno Scanner, the special Scouts can be spotted by the pulses they emanate and the lingering effects of their pulse. In the moments after a pulse, the Regenerator can be seen to have a misty green hue around it and is usually the only one that doesn’t have a regenerative bubble-shield around it, Berserkers have a red mist and faint lightning effect and the Inciter has a white-pink colored faint lightning effect around it, helping you to determine your targets without scanning.
 

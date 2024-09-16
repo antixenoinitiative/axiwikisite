@@ -22,7 +22,7 @@ dateCreated: 2023-08-06T01:43:08.175Z
 4. Warn about the Swarm
  - If you pass through an active swarm, call out to your wingmates that you have done so. When you fly through a swarm you toggle its state between agitated and deagitated. An agitated swarm launches missiles. Warn your wingmates so everybody is aware of the possible danger.
 5. Post Heart Procedures
- - **Get and Stay Cold,** or over 3 km from the Thargoid, to avoid triggering caustic missiles and shutdown fields (see [bypass mechanics](/en/mechanic-bypass)). Keep hearts in mind. After the first hear, the Tharoid will attempt a lightning chase. After the 2nd to final hear, the Thargoid will look for ship signatures to deploy a shutdown field upon.
+ - **Get and Stay Cold,** or over 3 km from the Thargoid, to avoid triggering caustic missiles and shutdown fields (see [bypass mechanics]({{ site.baseurl }}/mechanic-bypass)). Keep hearts in mind. After the first hear, the Tharoid will attempt a lightning chase. After the 2nd to final hear, the Thargoid will look for ship signatures to deploy a shutdown field upon.
 6. Don't Die
  - If you are the last of your wing in the instance, disengage from the fight and stay alive in the instance until your wingmates return and can provide anchor for you. Thargoid combat is hard until it's not.
  
