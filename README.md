@@ -35,7 +35,7 @@ Each Hyperlink between pages should use the following format:
 
 {% raw %}
 ```
-[<Hyperlink text>]({{ site.baseurl }}/<page-name>)
+[<Hyperlink text>]({{ site.baseurl }}/<page-permalink>)
 
 Example: 
 [Cold Orbiting]({{ site.baseurl }}/cold-orbiting)
