@@ -1,0 +1,68 @@
+$container-bg: #171717;
+$label-bg: #1f1f1f;
+$label-hover-bg: #171717;
+$label-active-bg: #333333;
+$border-color: #ccc;
+
+@mixin tab-control($num-tabs) {
+  @for $i from 1 through $num-tabs {
+    input[type="radio"]:nth-of-type(#{$i}):checked
+      ~ .label-container
+      ~ .content-container
+      .content:nth-of-type(#{$i}) {
+      display: block;
+    }
+  }
+}
+
+.container {
+  width: 100%;
+  margin: 0 auto;
+
+  input[type="radio"] {
+    display: none;
+  }
+
+  label {
+    display: inline-block;
+    padding: 10px 20px;
+    cursor: pointer;
+    border: 1px solid $border-color;
+    border-bottom: none;
+    background-color: $label-bg;
+    width: 100%;
+
+    &:hover {
+      background-color: $label-hover-bg;
+    }
+  }
+
+  input[type="radio"]:checked + label {
+    background-color: #f00; // Does not work, idk why :( $label-active-bg;
+  }
+
+  .content-container {
+    border: 1px solid $border-color;
+    padding: 20px;
+    background-color: $container-bg;
+
+    .content {
+      display: none;
+    }
+  }
+
+  .label-container {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  // move images to the right
+  .content img {
+    float: right;
+    margin-left: 20px;
+    margin-top: -47px;
+  }
+
+  // Apply the tab-control mixin with the desired number of tabs
+  @include tab-control(4); // Adjust the number as needed
+}

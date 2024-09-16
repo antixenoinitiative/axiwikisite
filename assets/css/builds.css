@@ -1,0 +1,53 @@
+.container {
+  width: 100%;
+  margin: 0 auto;
+}
+.container input[type=radio] {
+  display: none;
+}
+.container label {
+  display: inline-block;
+  padding: 10px 20px;
+  cursor: pointer;
+  border: 1px solid #ccc;
+  border-bottom: none;
+  background-color: #1f1f1f;
+  width: 100%;
+}
+.container label:hover {
+  background-color: #171717;
+}
+.container input[type=radio]:checked + label {
+  background-color: #f00;
+}
+.container .content-container {
+  border: 1px solid #ccc;
+  padding: 20px;
+  background-color: #171717;
+}
+.container .content-container .content {
+  display: none;
+}
+.container .label-container {
+  display: flex;
+  justify-content: space-between;
+}
+.container .content img {
+  float: right;
+  margin-left: 20px;
+  margin-top: -47px;
+}
+.container input[type=radio]:nth-of-type(1):checked ~ .label-container ~ .content-container .content:nth-of-type(1) {
+  display: block;
+}
+.container input[type=radio]:nth-of-type(2):checked ~ .label-container ~ .content-container .content:nth-of-type(2) {
+  display: block;
+}
+.container input[type=radio]:nth-of-type(3):checked ~ .label-container ~ .content-container .content:nth-of-type(3) {
+  display: block;
+}
+.container input[type=radio]:nth-of-type(4):checked ~ .label-container ~ .content-container .content:nth-of-type(4) {
+  display: block;
+}
+
+/*# sourceMappingURL=builds.css.map */
