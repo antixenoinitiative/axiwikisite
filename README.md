@@ -19,9 +19,13 @@ description: The fundamental concepts of AX combat and how to fight an Intercept
 ```
 
 `title` - sets the page title that appears in the navigation
+
 `permalink` - creates a redirect link that allows the page to be reached at the base url ie: wiki.antixenoinitiative.com/**basic-combat-guide**, use the formatting with "-" to replace spaces and all LOWERCASE.
+
 `layout` - set the default page template, read more in [JTD Documentation](https://just-the-docs.com/)
+
 `nav_order` - sets the order in navigation
+
 `description` - not required but used on the home page to generate the navigation link
 
 ## Page links
