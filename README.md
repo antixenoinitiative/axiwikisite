@@ -24,6 +24,21 @@ description: The fundamental concepts of AX combat and how to fight an Intercept
 `nav_order` - sets the order in navigation
 `description` - not required but used on the home page to generate the navigation link
 
+## Page links
+To ensure links work in both dev and test environments and to ensure pages link correctly, use the liquid language to generate the urls directly inside each file.
+
+Each Hyperlink between pages should use the following format: 
+
+```
+[<Hyperlink text>]({% raw %}{{ site.baseurl }}{% endraw %}/<page-name>)
+
+Example: 
+[Cold Orbiting]({% raw %}{{ site.baseurl }}{% endraw %}/cold-orbiting)
+```
+
+
+
+
 ## Importing from the old wiki
 
 Work is required to import pages from the old wiki into this site, the old wiki is being automatically synced to a seperate Github repo where it can be found in similar markdown format, manual work is needed to migrate these pages over from the old repo.
