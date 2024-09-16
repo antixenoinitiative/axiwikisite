@@ -29,13 +29,14 @@ To ensure links work in both dev and test environments and to ensure pages link 
 
 Each Hyperlink between pages should use the following format: 
 
+{% raw %}
 ```
-[<Hyperlink text>]({% raw %}{{ site.baseurl }}{% endraw %}/<page-name>)
+[<Hyperlink text>]({{ site.baseurl }}/<page-name>)
 
 Example: 
-[Cold Orbiting]({% raw %}{{ site.baseurl }}{% endraw %}/cold-orbiting)
+[Cold Orbiting]({{ site.baseurl }}/cold-orbiting)
 ```
-
+{% endraw %}
 
 
 
