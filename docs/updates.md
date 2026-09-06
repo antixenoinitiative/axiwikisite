@@ -6,7 +6,7 @@ tags:
 ---
 
 
-Wiki page editorials and website changes are discussed in discord under the OTHER category "devops" text channel. If issues arise with this wiki, github issues are tracked [here](https://github.com/antixenoinitiative/axiwiki/issues) same as <https://github.com/antixenoinitiative/axiwiki/issues>.
+Wiki page editorials and website changes are discussed in discord under the OTHER category "devops" text channel. If issues arise with this wiki, github issues are tracked [here](https://github.com/antixenoinitiative/axiwikisite/issues) same as <https://github.com/antixenoinitiative/axiwikisite/issues>.
 
 If you'd like to contribute to the wiki, please request editor permissions from AXI staff in discord.
 

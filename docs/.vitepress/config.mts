@@ -311,7 +311,7 @@ export default defineConfig({
 
     socialLinks: [
       { icon: 'discord', link: 'https://antixenoinitiative.com/discord' },
-      { icon: 'github', link: 'https://github.com/antixenoinitiative/axiwiki' }
+      { icon: 'github', link: 'https://github.com/antixenoinitiative/axiwikisite' }
     ],
 
     footer: {

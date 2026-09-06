@@ -18,7 +18,7 @@ Whether you want to fix a simple typo, submit an updated ship build, or help tra
 
 For small updates, typo fixes, or simple additions, you can edit pages directly in your web browser:
 
-1. **Navigate to the file** you want to edit on the [axiwiki GitHub Repository](https://github.com/antixenoinitiative/axiwiki) (inside the `docs/` folder).
+1. **Navigate to the file** you want to edit on the [axiwikisite GitHub Repository](https://github.com/antixenoinitiative/axiwikisite) (inside the `docs/` folder).
 2. Click the **pencil icon** (✏️ *Edit this file*) in the upper right.
 3. Make your edits in Markdown. You can use the **Preview** tab to check your formatting.
 4. Scroll to the bottom, enter a concise commit message (e.g., `Fix shield booster engineering recommendation`), select **Create a new branch for this commit and start a pull request**, and click **Propose changes**.
@@ -39,8 +39,8 @@ If you are adding new pages, updating complex layouts, or working with custom co
 
 ```bash
 # Clone the repository
-git clone https://github.com/antixenoinitiative/axiwiki.git
-cd axiwiki
+git clone https://github.com/antixenoinitiative/axiwikisite.git
+cd axiwikisite
 
 # Install dependencies
 npm install
