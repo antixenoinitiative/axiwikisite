@@ -1,0 +1,16 @@
+---
+title: "Thargoid Regeneration"
+description: "A study into thargoid regeneration"
+date: 2021-08-10T05:15:37.893Z
+tags: thargoids, interceptors
+---
+
+<h1>Thargoid Regeneration</h1>
+<p><i>Credit to CMDR Aranionros Stormrage</i></p>
+<h2>Summary</h2>
+<p><a href="https://docs.google.com/spreadsheets/d/1mrWpHGb_XmgRyhAIhw7G74RNw4u6m7tAi4iqmHLhYxM/edit?usp=sharing"><u>All thargoids regenerate at a constant rate (0.4% of their health per second)</u></a>, though since stronger variants have more overall hull, it leads to more effective regen. Once a heart is exerted however, they regenerate very rapidly, so the heart needs to be destroyed to actually damage the interceptor.</p>
+<p>With immense firepower, this increased regeneration can be overcome, so large groups of pilots can instantly destroy an interceptor, without destroying its hearts. (This is referred to as ‘instagibbing’)</p>
+<figure class="image image_resized"><img src="/img/regeneration_cyclops_combat_analysis.png"></figure>
+<figure class="image image_resized"><img src="/img/regeneration_basi_combat_analysis.png"></figure>
+<figure class="image image_resized"><img src="/img/regeneration_medusa_combat_analysis.png"></figure>
+<figure class="image image_resized"><img src="/img/regeneration_hydra_combat_analysis.png"></figure>
