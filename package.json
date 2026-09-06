@@ -1,0 +1,18 @@
+{
+  "name": "axiwikisite",
+  "version": "1.0.0",
+  "description": "VitePress static site for the Anti-Xeno Initiative Wiki",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "test": "node scripts/verify-html.mjs",
+    "verify": "npm run docs:build && npm test",
+    "migrate": "node scripts/migrate.mjs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.3"
+  }
+}
