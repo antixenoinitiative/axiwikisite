@@ -1,7 +1,7 @@
 # Anti-Xeno Initiative (AXI) Wiki
 
 [![VitePress](https://img.shields.io/badge/VitePress-1.6+-ff7100?style=flat&logo=vite&logoColor=white)](https://vitepress.dev/)
-[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=AXI%20Discord&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://antixenoinitiative.com/discord)
+[![Build Status](https://github.com/antixenoinitiative/axiwikisite/actions/workflows/deploy.yml/badge.svg?branch=main)](https://github.com/antixenoinitiative/axiwikisite/actions/workflows/deploy.yml)
 [![Website](https://img.shields.io/badge/Website-antixenoinitiative.com-ff7100)](https://www.antixenoinitiative.com/)
 
 The official VitePress static site repository for the [Anti-Xeno Initiative Wiki](https://wiki.antixenoinitiative.com/).
