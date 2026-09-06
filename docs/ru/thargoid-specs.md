@@ -1,0 +1,328 @@
+---
+title: "Thargoid Specifications"
+description: "Details specs of Thargoid Interceptors"
+date: 2022-01-20T10:15:13.032Z
+tags: thargoids, interceptors, scouts
+---
+
+
+
+<h1>Характеристики кораблей таргоидов</h1>
+<p>Подробные характеристики известных значений различных перехватчиков и разведчиков таргоидов.</p>
+<p><strong>CAU</strong> = Едкий урон</p>
+<p><strong>ABS</strong> = Абсолютный урон</p>
+
+<figure>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="col">&nbsp;                </th>
+        <th scope="col"><strong>Разведчики</strong>‎‎‎‎‎‎‎‎‎‎</th>
+        <th scope="col"><strong>Cyclops</strong></th>
+        <th scope="col"><strong>Basilisk</strong></th>
+        <th scope="col"><strong>Medusa</strong></th>
+        <th scope="col"><strong>Hydra</strong></th>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Количество «сердец»</strong></th>
+        <td>Н/Д</td>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Макс. скорость</strong></th>
+        <td>280 м/с</td>
+        <td>450 м/с</td>
+        <td>530 м/с</td>
+        <td>450 м/с</td>
+        <td>450 м/с</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Размер роя</strong>
+        </th>
+        <td>Н/Д</td>
+        <td>32</td>
+        <td>64</td>
+        <td>96</td>
+        <td>128</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Время до входа в разъярённое состояние</strong></th>
+        <td>Н/Д</td>
+        <td>06:00</td>
+        <td>07:00</td>
+        <td>07:00</td>
+        <td>08:00</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Вознаграждение за уничтожение</strong></th>
+        <td>40,000 Кр</td>
+        <td>8,000,000Кр</td>
+        <td>24,000,000Кр</td>
+        <td>40,000,000Кр</td>
+        <td>60,000,000Кр</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Корпус</strong></th>
+        <td>180</td>
+        <td>800</td>
+        <td>1800</td>
+        <td>2500</td>
+        <td>3200</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Корпус «сердца»</strong></th>
+        <td>Н/Д</td>
+        <td>38</td>
+        <td>70</td>
+        <td>70</td>
+        <td>140</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Рейтинг брони</strong> </th>
+        <td>Н/Д</td>
+        <td>100</td>
+        <td>140</td>
+        <td>170</td>
+        <td>220</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Сопротивление человеческому оружию</strong></th>
+        <td>77%</td>
+        <td>99.00%</td>
+        <td>99.00%</td>
+        <td>99.00%</td>
+        <td>99.00%</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Пассивная скорость восстановления, %/с</strong></th>
+        <td>Н/Д</td>
+        <td>0.4</td>
+        <td>0.4</td>
+        <td>0.4</td>
+        <td>0.4</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Пассивная скорость восстановления корпуса в секунду</strong></th>
+        <td>Н/Д</td>
+        <td>3.2</td>
+        <td>7.2</td>
+        <td>10</td>
+        <td>12.8</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Затраченная скорость восстановления корпуса</strong></th>
+        <td>Н/Д</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Мощность щита</strong></th>
+        <td>Н/Д</td>
+        <td>2450</td>
+        <td>4300</td>
+        <td>6150</td>
+        <td>8000</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Скорость разрушения щита</strong></th>
+        <td>Н/Д</td>
+        <td>25 МДж/с</td>
+        <td>25 МДж/с</td>
+        <td>25 МДж/с</td>
+        <td>25 МДж/с</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Время разрушения щита (от 100% до 0%)</strong></th>
+        <td>Н/Д</td>
+        <td>01:38</td>
+        <td>02:51</td>
+        <td>04:05</td>
+        <td>05:19</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Размер пушечного залпа</strong></th>
+        <td>3</td>
+        <td>4</td>
+        <td>8</td>
+        <td>12</td>
+        <td>12</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Дальность стрельбы</strong></th>
+        <td>~3км</td>
+        <td>~3км</td>
+        <td>~3км</td>
+        <td>~3км</td>
+        <td>~3км</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Время перезарядки оружия</strong></th>
+        <td>Н/Д</td>
+        <td>00:10</td>
+        <td>00:15</td>
+        <td>00:10</td>
+        <td>00:05</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Продолжительность атаки</strong></th>
+        <td>Н/Д</td>
+        <td>≈0:30</td>
+        <td>≈0:26</td>
+        <td>≈0:26</td>
+        <td>≈0:20</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Сырой урон за залп</strong></th>
+        <td>Н/Д</td>
+        <td>20 (CAU)</td>
+        <td>68 (CAU)</td>
+        <td>132 (CAU)</td>
+        <td>163 (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Повреждения щита за залп§</strong></th>
+        <td>Н/Д</td>
+        <td>≈8 (CAU)</td>
+        <td>≈28 (CAU)</td>
+        <td>≈53 (CAU)</td>
+        <td>≈65 (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Поэтапное повреждение корпуса за залп</strong></th>
+        <td>Н/Д</td>
+        <td>≈1 (ABS)</td>
+        <td>≈4 (ABS)</td>
+        <td>≈12 (ABS)</td>
+        <td>≈12 (ABS)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Прямое повреждение корпуса за залп†</strong></th>
+        <td>Н/Д</td>
+        <td>20 (CAU)</td>
+        <td>68 (CAU)</td>
+        <td>132 (CAU)</td>
+        <td>163 (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Залпов за каждую атаку</strong></th>
+        <td>Н/Д</td>
+        <td>≈20 Залпов</td>
+        <td>≈20 Залпов</td>
+        <td>≈18 Залпов</td>
+        <td>≈13 Залпов</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Повреждение щита за атаку§</strong></th>
+        <td>Н/Д</td>
+        <td>≈160 (CAU)</td>
+        <td>≈560 (CAU)</td>
+        <td>≈954 (CAU)</td>
+        <td>≈854 (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Прямое повреждение корпуса за атаку†</strong></th>
+        <td>Н/Д</td>
+        <td>400</td>
+        <td>1360</td>
+        <td>2376</td>
+        <td>2119</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Поэтапный урон корпуса за каждую атаку</strong></th>
+        <td>Н/Д</td>
+        <td>≈20 (ABS)</td>
+        <td>≈80 (ABS)</td>
+        <td>≈216 (ABS)</td>
+        <td>≈156 (ABS)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>УВС орудия (Щит)§</strong></th>
+        <td>Н/Д</td>
+        <td>≈5/с (CAU)</td>
+        <td>≈19/с (CAU)</td>
+        <td>≈35/с (CAU)</td>
+        <td>≈43/с (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>УВС орудия (Напр. по корпусу)†</strong></th>
+        <td>Н/Д</td>
+        <td>≈13/с (CAU)</td>
+        <td>≈45/с (CAU)</td>
+        <td>≈88/с (CAU)</td>
+        <td>≈109/с (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>УВС орудия (Поэтапн. по корпусу)</strong></th>
+        <td>Н/Д</td>
+        <td>≈0.7/с (ABS)</td>
+        <td>≈2.7/с (ABS)</td>
+        <td>≈8/с (ABS)</td>
+        <td>≈8/с (ABS)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Продолжительность атаки молнией</strong></th>
+        <td>Н/Д</td>
+        <td>00:08</td>
+        <td>00:10</td>
+        <td>00:12</td>
+        <td>00:14</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Урон от молнии</strong></th>
+        <td>Н/Д</td>
+        <td>800</td>
+        <td>1700</td>
+        <td>2800</td>
+        <td>4400</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Размер урона, для раскрытия первого «сердца»</strong></th>
+        <td>Н/Д</td>
+        <td>160</td>
+        <td>360</td>
+        <td>500</td>
+        <td>640</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Оптим. среднее кол-во выстрелов из Гауссов&nbsp;</strong><br><strong>для раскрытия первого «сердца»</strong></th>
+        <td>Н/Д</td>
+        <td>6</td>
+        <td>12</td>
+        <td>24</td>
+        <td>44</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Оптим. среднее кол-во выстрелов из Гауссов&nbsp;<br>для уничтожения «сердца»</strong></th><td>Н/Д</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td>13</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Повреждение корпуса. % необходимый для раскрытия «сердца»</strong></th>
+        <td>Н/Д</td>
+        <td>Сердце1: 20%&nbsp;<br>Сердце2: 16%&nbsp;<br>Сердце3: 12%&nbsp;<br>Сердце4: 8%
+        </td>
+        <td>Сердце1: 20%<br>Сердце2: 16%<br>Сердце3: 14%<br>Сердце4: 10%<br>Сердце5: 8%
+        </td>
+        <td>Сердце1: 20%&nbsp;<br>Сердце2: 17%&nbsp;<br>Сердце3: 15%<br>Сердце4: 12%<br>Сердце5: 10%<br>Сердце6: 7%
+        </td>
+        <td>Сердце1: 20%<br>Сердце2: 18%<br>Сердце3: 16%<br>Сердце4: 14%<br>Сердце5: 12%<br>Сердце6: 10%<br>Сердце7: 8%<br>Сердце8: 6%
+        </td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Этапы раскрытия «Сердца» в % от текущего макс. значения корпуса</strong></th>
+        <td>Н/Д</td>
+        <td>80</td>
+        <td>80</td>
+        <td>80</td>
+        <td>80</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

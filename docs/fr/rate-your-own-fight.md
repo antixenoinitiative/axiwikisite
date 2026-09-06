@@ -1,0 +1,144 @@
+---
+title: "Rate your own fight"
+description: "Grading rubric and self-assessment"
+date: 2021-06-27T22:11:26.674Z
+tags: combat
+---
+
+<h1>Fiche d'évaluation par rang de progression de l'AXI &amp; Rubrique &nbsp; &nbsp; &nbsp;</h1>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>Catégorie</strong></td>
+        <td>
+          <p>F</p>
+        </td>
+        <td>
+          <p>C</p>
+        </td>
+        <td>
+          <p>B</p>
+        </td>
+        <td>
+          <p>A</p>
+        </td>
+        <td>
+          <p>S</p>
+        </td>
+        <td>
+          <p>Importance</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Vaisseau</strong></td>
+        <td>La configuration du vaisseau du commandant n'applique pas les conseils de base. Le commandant essaiera de voler avec des vaisseaux hors-méta dès le départ, sans une compréhension fondamentale des idées derrière les différentes configurations, et/ou&nbsp;le commandant insiste sur le fait de piloter des vaisseaux sans modifications d'ingénieur</td>
+        <td>Le commandant a un vaisseau pour débutant avec un nombre raisonnable de modifications d'ingénieur (et souvent avec un bouclier)&nbsp;</td>
+        <td>Le commandant a un vaisseau « méta » recommandé, avec potentiellement quelques défauts (par exemple, des renforts de coques qui n'ont pas des modifications d'ingénieur complètes). Mais les modules internes "clés" sont tous au grade 5 (répartiteur de puissance, propulseurs, générateur)</td>
+        <td>&nbsp;Le commandant possède au moins un vaisseau méta avec toutes les modifications d'ingénieur nécessaires (Krait, Federal Assault Ship, Challenger, Chieftain sans boucliers et/ou Cutter AX)&nbsp;</td>
+        <td>Le commandant a appris à dévier intentionnellement de la méta pour répondre à des objectifs spécifiques, et est même peut être allé encore plus loin en contribuant à l'évolution de la méta. À ce niveau, il est courant d'avoir quelques vaisseau « méta» essentiels, et plusieurs vaisseaux hors méta utilisés à des fins spécifiques</td>
+        <td>
+          <p>10%</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Cold Orbiting</strong></td>
+        <td>Le commandant n'arrive pas à utiliser les dissipateurs thermiques de manière fiable et/ou n'orbite même pas du tout</td>
+        <td>Le commandant a une capacité de base à orbiter de façon au moins partielle. L'utilisation de dissipateurs thermiques peut être irrégulière (certains sont manqués) ; les orbites sont souvent stoppés, comme paralysées (N.d.T.: "stall" dans le texte) ; le contrôle de la distance n'est pas bon - il se retrouve souvent proche du thargoid ; la gestion du boost est mauvaise - le commandant peut constamment « booster vers » le thargoid</td>
+        <td>Le commandant a une maîtrise intermédiaire du cold orbiting - ses orbites pourront se stopper, mais pas trop fréquemment. L'utilisation des dissipateurs thermiques est maîtrisée - les dissipateurs thermiques manqués sont rares. Le contrôle de la distance est tout juste acceptable, avec des orbites se situant souvent entre 2 et 2,5km.</td>
+        <td>Le commandant a une solide maîtrise du cold orbiting. Les orbites se stoppent rarement. Le contrôle de la distance peut toujours être irrégulier - les orbites peuvent fréquemment varier entre 1000 et 2500m. L'utilisation des dissipateurs thermiques est presque parfaite</td>
+        <td>Le commandant a maîtrisé le cold orbiting « basique » et a en plus appris le boost-orbiting. Ses orbites ne se stoppent presque jamais. Le commandant utilise ses dissipateurs thermiques de manière proactive, et peut en utiliser deux (voire trois) en même temps si son vaisseau/objectif le nécessite. Son contrôle de la distance est exceptionnel - le commandant se trouve rarement hors des 1,5 km lorsqu'il tire.</td>
+        <td>
+          <p>25%</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Précision, constance des tirs et style de tir</strong></td>
+        <td>Le commandant corrige trop ses tirs et n'est pas en mesure de toucher les cœurs de façon constante, surtout quand l'assistance de vol est désactivée. La contance des tirs est inexistante - le commandant peut provoquer des pics de chaleur et/ou avoir une très faible cadence de tir. Typiquement, le commandant ne va pas espacer ses tirs</td>
+        <td>CMDR peut souvent toucher le thargoid et extraire son cœur, mais il a généralement des problèmes pour toucher ce dernier, surtout quand l'assistance de vol est désactivée. Sa précision est inférieure à 50%. Le cycle de tir peut être de 3s et plus. CMDR may stagger shots, but will typically do so alternating fire groups vs truly overlapping shots.</td>
+        <td>Le commandant a une précision à moitié fiable et peut semi-constamment toucher les cœurs. Sa précision est d'environ 50 à 60%. Sa cadence de tir est bonne mais pas optimale, avec un cycle de tir d'environ 2,5 à 3s. CMDR has learned to overlap staggered fire.</td>
+        <td>Le commandant a une précision solide et constante. Sa précision est de 60 à 80%. Sa cadence de tir est très bonne - le commandant peut approcher la limite d'un répartiteur de puissance 6A rapide avec 2 gauss moyens et 2 petits (2210ms avec un dissipateur thermique actif). CMDR has a solid command of staggered fire - with good overlap.</td>
+        <td>Le commandant a une précision exceptionnelle. Sa précision est de 80 à 100%. Fire cadence has been optimized to the millisecond limit of their power distributor (or the lower limit of the 2050ms gauss cycle), and near-perfect overlap on stagger.</td>
+        <td>
+          <p>25%</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Gestion des pips</strong></td>
+        <td>Le commandant prête très peu attention à la gestion des pips et va souvent avoir des problèmes (par exemple, il tire aux gauss sans pips dans les armes)</td>
+        <td>Le commandant comprend les bases de la gestion des pips mais se trouvera souvent hors des configurations habituelles pendant les phases d'attaque</td>
+        <td>Le commandant peut utiliser ses pips de manière fiable pour répondre à chaque situations et peut avoir des macros pour l'aider ; cependant, il peut quand même faire des erreurs de manière occasionnelle (par exemple, il peut tomber à court dans les systèmes et ne plus être en mesure d'utiliser des dissipateurs thermiques)</td>
+        <td>Le commandant a une forte maîtrise de la gestion des pips, et sera constamment dans la configuration appropriée pour chaque phase du combat</td>
+        <td>Le commandant a un contrôle total sur la gestion de ses pips, pouvant les modifier quand il le faut, même en plein milieu d'une phase d'attaque</td>
+        <td>
+          <p>10%</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Gestion de l'essaim et prise de conscience de la situation</strong></td>
+        <td>Le commandant sera souvent « surpris » par le thagoïd et subira des dégâts dans des phase où le cœur ne peut pas être extrait. Le commandant laissera constamment l'essaim lui voler à travers (et mangera des missiles en conséquence). Le commandant va manquer la plupart de ses tirs au lanceur antiaérien déclenché à distance.</td>
+        <td>La précision des tirs au lanceur antiaérien déclenché à distance sont assez constants, mais un nombre de munitions/tirs important est nécessaire pour abattre un essaim, même s'il est en formation de balle.</td>
+        <td>Le commandant peut abattre de manière constante les essaims en formation de balle, mais il a du mal avec la formation en anneau. Le commandant va toujours laisser l'essaim lui voler à travers, et ne peut pas distinguer visuellement les formations de base et de missile.</td>
+        <td>Le commandant peut abattre n'importe quelle formation d'essaim avec peu de difficultés. Le commandant a appris à identifier visuellement les types de formation d’essaim et il «réinitialisera» les formations de missile si nécessaire. Il est rare que l'essaim «vole à travers» le commandant. Si il n'a pas de bouclier, le commandant a maîtrisé l'utilisation du mode furtif pour repositionner l'essaim sans prendre trop de dégâts et sans utiliser de dissipateur thermique. Si il possède un bouclier, le commandant a maîtrisé les cold reboots.</td>
+        <td>Le commandant maîtrise parfaitement la gestion de l'essaim. Si il utilise un lanceur antiaérien déclenché à distance, le commandant peut abattre la plupart des formations d'essaim en quelques secondes. Si il ne possède pas de lanceur antiaérien déclenché à distance, le commandant peut effectuer du boost-orbiting de manière constante tout en gardant l’essaim en échec et en évitant de l’agiter. De plus, le commandant est à l'aise pour "bait" les missiles lorsque c'est nécessaire, y compris si l'intercepteur est enragé.</td>
+        <td>
+          <p>15%</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Prise de décisions tactiques et gestion du temps</strong></td>
+        <td>Le commandant attaquera constamment même lorsque les chances de succès sont faibles (plus de dissipateurs thermiques, points de vie de la coque bas, ...). Le commandant arrête rarement d'attaquer même lorsque la verrière est sur le point de se casser par exemple. Le commandant va constamment faire face à des thargoids enragés</td>
+        <td>Le CMDR manque de compréhension fondamentale du timing pour attaquer le thargoid, et peut faire face fréquemment à des intercepteurs enragés. Il échoue occasionnellement à arrêter l'attaque quand la situation l'exige</td>
+        <td>Le commandant prend les décisions tactiques appropriées dans les scénarios les plus communs, mais peut faire de mauvais choix quand il se trouve sous pression (par exemple, quand il combat un intercepteur enragé). Le commandant peut toujours faire des mauvais choix tactiques (par exemple en essayant de s'enfuir une fois touché par un éclair au lieu de profiter de l'occasion pour finir un cœur)</td>
+        <td>Le commandant est généralement conscient de ses limites et de celles de son vaisseau. Il fera généralement des choix appropriés durant le combat, même sous la pression</td>
+        <td>CMDR has mastered not only the basics of a progression fight, but is now actively putting pressure on the goid with advanced techniques like e.g., ramming shields. Alors que les erreurs occasionnelles existeront toujours, à ce niveau, les commandants peuvent faire des choix en une fraction de seconde qui peuvent sauver des situations apparemment perdues.</td>
+        <td>
+          <p>15%</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Points </strong></td>
+        <td>
+          <p>0</p>
+        </td>
+        <td>
+          <p>4</p>
+        </td>
+        <td>
+          <p>6</p>
+        </td>
+        <td>
+          <p>8</p>
+        </td>
+        <td>
+          <p>10</p>
+        </td>
+        <td>
+          <p>100%</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Note</strong></td>
+        <td>
+          <p>F</p>
+        </td>
+        <td>
+          <p>C</p>
+        </td>
+        <td>
+          <p>B</p>
+        </td>
+        <td>
+          <p>A</p>
+        </td>
+        <td>
+          <p>S</p>
+        </td>
+        <td>
+          <p>N/A</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>

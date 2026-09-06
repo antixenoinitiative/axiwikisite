@@ -1,0 +1,15 @@
+---
+title: "Thargoid Hull Analysis"
+description: "A detailed investigation into Thargoid Hull Damage"
+date: 2021-10-06T05:38:50.972Z
+tags: thargoids
+---
+
+<h1>ANÁLISIS DE DAÑOS DEL THARGOID EN EL CASCO</h1>
+<p>Resultados y datos recogidos por el CMDT Maligno con el fin de determinar mejor el valor del daño directo al casco.</p>
+<figure class="image image_resized"><img src="/img/thargoid_hull_analysis_cyclops.png"></figure>
+<figure class="image image_resized"><img src="/img/thargoid_hull_analysis_basilisk.png"></figure>
+<figure class="image image_resized"><img src="/img/thargoid_hull_analysis_medusa.png"></figure>
+<figure class="image image_resized"><img src="/img/thargoid_hull_analysis_basilisk_vs_mamba.png"></figure>
+<figure class="image image_resized"><img src="/img/thargoid_hull_analysis_medusa_v_mamba.png"></figure>
+<p>&nbsp;</p>

@@ -1,0 +1,28 @@
+---
+title: "Ace Puan Tablosu"
+description: "Ace sıralamasındaki kumandanlar"
+date: 2021-11-02T02:54:02.952Z
+tags: 
+---
+
+<h1>Ace Puan Tablosu</h1>
+
+<p>
+  Ötesini hedefleyenler için. Bu rütbe; mermi kullanım miktarı, alınan toplam hasar ve savaş süresi kıstaslarının dikkate alındığı gerçek bir sınavdır. Chieftain'i dilediğiniz Gauss kombinasyonuyla kullanarak bir Medusa öldürün.
+</p>
+
+<p>
+  Kısıtlamalar
+  </p>
+<ul>
+    <li>Yalnızca Basic mermi kullanılabilir.</li>
+    <li>Geminizin isminde "GTM" kısaltması bulunmalıdır.</li>
+    <li>Hammer Gauss kullanılamaz.</li>
+  </ul>
+
+<p>
+  Savaş skorunuzu /ace komutunu kullanarak hesaplayın. En yüksek puana sahip 10 CMDR Ace rütbesini taşıyacaktır. Bu rekabete dayalı bir rütbedir ve ilk ondaki yerin kaybedilmesi halinde rütbe de kaybedilir.
+</p>
+
+<h2>Alliance Chieftain</h2>
+<div id="chieflist"></div>

@@ -1,0 +1,38 @@
+---
+title: "Thargoid Regeneration"
+description: "A study into thargoid regeneration"
+date: 2021-11-02T02:55:23.477Z
+tags: thargoids, interceptors
+---
+
+<h1>Thargoid Yenilenmesi</h1>
+<p><em>CMDR Aranionros Stormrage tarafından,</em></p>
+<h2>Özet</h2>
+<p>
+  <a
+    href="https://docs.google.com/spreadsheets/d/1mrWpHGb_XmgRyhAIhw7G74RNw4u6m7tAi4iqmHLhYxM/edit?usp=sharing"
+    >Tüm Thargoidler aynı (saniye başına 0.4% toplam can) oranında can
+    yenilerler
+  </a>
+  ve güçlü türlerin can miktarları daha fazla olduğundan daha fazla can
+  yenilemiş olurlar. Ancak Kalp pörtlediği zaman çok daha hızlı yenileme
+  gerçekleştirdiklerinden bir Interceptor'e gerçek anlamda hasar vermek için
+  Kalp parçalamak gerekir.
+</p>
+<p>
+  Devasa ateş gücüyle bu yenilenme dahi üstesinden gelinebilir ve büyük gruplar
+  halindeki pilotlar, herhangi bir Kalbini parçalamadan bir Interceptor'u yok
+  edebilirler. (Bu eyleme "instagibbing" denir)
+</p>
+<figure class="image image_resized">
+  <img src="/img/regeneration_cyclops_combat_analysis.png" />
+</figure>
+<figure class="image image_resized">
+  <img src="/img/regeneration_basi_combat_analysis.png" />
+</figure>
+<figure class="image image_resized">
+  <img src="/img/regeneration_medusa_combat_analysis.png" />
+</figure>
+<figure class="image image_resized">
+  <img src="/img/regeneration_hydra_combat_analysis.png" />
+</figure>

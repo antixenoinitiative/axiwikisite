@@ -1,0 +1,22 @@
+---
+title: "Unlock Guardian Weapons and Modules"
+description: "How to unlock guardian weapons and modules"
+date: 2021-06-27T22:10:19.990Z
+tags: builds, outfitting
+---
+
+<h1>Freischalten von Guardian-Waffen und -Modulen</h1>
+<p>Um die Guardian-Module und -Waffen zu sammeln, müssen die Spieler die Guardian-Stätten besuchen und eine Vielzahl von Materialien sammeln. Dazu gehören: Blaupausen (spezifisch für den Modultyp), Komponenten und Daten. Um diese zu sammeln, benötigt man ein Schiff mit einem SRV und einer anständigen Sprungreichweite (Guardian-Standorte sind etwas abgelegen).</p>
+<p><strong>Wir empfehlen ausserdem, ein Ersatz-SRV und ein Punktverteidigungsmodul auf dem Schiff mitzuführen. Die Punktverteidigung wird die Guardian Sentinel-Raketen abschießen, was dies wesentlich erleichtert.</strong>
+</p>
+<p>Verschiedene Guardian-Standorte geben unterschiedliche Blaupausen (Modul, Waffe, Fighter). Um die Blaupausen zu sammeln, müssen man ein kleines Minispiel absolvieren, bei dem man innerhalb eines kleinen Zeitfensters Energiekugeln auf eine Sammlung von Pylonen schießen müssen. Danach muss man sich ein uraltes Guardian Relikt schnappen und es auf das Podest legen, auf dem man das Minispiel begonnen hat. Von hier aus wird eine große Kugel erscheinen, die man mit einem Data-Link-Scanner scannen muss, um eine Blaupause zu erhalten. Wenn man mehrere Blaupausen benötigt, kan man dann vom Standort wegfahren, sich aus dem Spiel aus- und wieder einloggen und erneut beginnen.</p>
+<p>Beim Erkunden des Geländes trifft man auf Guardian Sentinels. Diese schiessen mit Projektilen auf den Spieler und feuern Suchraketen in die Luft. Nimmt man sich einfach Zeit und schaltet man diese nacheinander aus, wird man kaum Probleme haben, einen Guardian-Standort zu entschärfen.</p>
+<p>Hier sind einige Guardian-Standorte, die verwendet werden können, um Module und Waffen zu erhalten:</p>
+<h2>SYNUEFE EU-Q C21-10 Planet A 3 (Waffen)</h2>
+<figure class="image"><img src="/img/guardwepblue.jpg" alt="guardwafblau.jpeg"></figure>
+<h2>SYNUEFE NL-N C23-4 Planet B 3 (Module)</h2>
+<figure class="image"><img src="/img/guardmodblue.jpg" alt="guardmodblau.jpeg"></figure>
+<h2>Video-Anleitung</h2>
+<div class="iframeContainer">
+  <iframe src="https://www.youtube.com/embed/RcWVQf0NUag" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

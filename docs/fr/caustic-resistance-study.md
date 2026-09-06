@@ -1,0 +1,52 @@
+---
+title: "Caustic Resistance Study"
+description: "An in-depth study into Thargoid Caustic Resistance and Phasing Damage"
+date: 2021-10-06T05:39:13.823Z
+tags: thargoids, caustic missiles, study
+---
+
+<h1>
+    Étude de la résistance caustique
+</h1>
+<p>
+    <i>
+        Par CMDR Maligno
+    </i>
+</p>
+<p>
+    Le but de cette étude est de confirmer à nouveau les deux questions suivantes :
+</p>
+<p>
+    Les dégâts perçants (à travers les boucliers) provenant du canon principal d'un intercepteur Thargoïd sont-ils réduits par une coque avec une résistance caustique ? (Renforts de coque Guardian)
+</p>
+<p>
+    La résistance caustique offerte par les renforts de coque gardien retient-elle les dégâts de manière linéaire ou non-linéaire ?
+</p>
+<h2>Première expérience
+</h2>
+<p>
+    Chaque configuration de vaisseau a été testée contre un Medusa après élimination de son essaim (de loin pour ne pas subir de dégâts).
+    Avant que les boucliers ne tombent, dans chaque cas, la coque a été réduite à 48%, ce qui signifie que les dégâts perçants des canons de l'intercepteur
+    ignorent la résistance caustique de la coque.
+</p>
+<h2>
+    Deuxième expérience
+</h2>
+<p>
+    Test de chaque configuration sans boucliers cette fois-ci contre un Medusa, après élimination de son essaim. Encore une fois, on a pris soin
+    de ne pas prendre de dégâts. Comme le montre l'image ci-dessous, le test effectué avec une résistance caustique a mitigé les dégâts par le montant estimé. Il y a 0.9 % d'erreur dans les mesures, plus une légère différence dans la coque
+    entre les deux configurations (seulement 4 points de vie), et les tirs manqués de temps en temps par l'Intercepteur.
+</p>
+<figure class="image image_resized">
+    <img
+        src="/img/caustic_resistance_study.png">
+</figure>
+<h2>
+    Conclusion
+</h2>
+<p>
+    Non, les dégâts perçants ne sont pas réduits par la résistance caustique, comme on le pensait précédemment.
+</p>
+<p>
+    Oui, les résistances caustiques semblent fonctionner comme imaginé précédemment et documenté dans EDSY en se cumulant de manière non-linéaire. Voir <a href="/en/internals">Modules</a> pour plus de détails.
+</p>

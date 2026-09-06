@@ -1,0 +1,14 @@
+---
+title: "Recommended Control Scheme"
+description: "Best suggested controls for Combat in Elite"
+date: 2021-07-01T22:47:45.476Z
+tags: combat, controls
+---
+
+<h1>Empfohlenes Steuerungsschema</h1>
+<p><strong>Tastatur und Maus bieten eine überlegene Steuerung gegenüber HOTAS.</strong> Dies ist in der PVP-Community bekannt und gilt auch für die Thargoid-Jagd. Die Fähigkeit, Flugvektor von Angriffsvektor zu entkoppeln, ist von größter Bedeutung. Eine häufig angewandte AX-Taktik erfordert die Beibehaltung einer Wärmesignatur unter 20% und eine hohe Winkelgeschwindigkeit im Verhältnis zum Interceptor. Dies führt zu einer drastisch verringert Genauigkeit der Kanone des Interceptors. Ohne Flughilfe aus ist es fast unmöglich den Interceptor im Schussfeld zuhalten, ohne zu nah an den Interceptor ranzukommen oder die Winkelgeschwindigkeit zum Interceptor zu verlieren.</p>
+<p>Folgende Mauseinstellungen werden empfohlen, welche die <strong>relative Maussteuerung</strong> aktivieren (der Cursor kehrt ohne Spielereingabe zurück in die Mitte der Reticule zurück). Dies erleichtert das Zielen immens, da es so einfacher ist kleine Anpassungen mit Flughilfe aus zu machen. <strong>Lege yaw auf die linke und rechte Maustaste und rolle auf die Tasten A und D.</strong> Stellen Sie sicher, dass <strong>Flughilfe</strong> <strong>auf Umschalten</strong>gesetzt ist.<strong> </strong>Das Manövrieren in diesem Modus in Supercruise ist anstrengend. Versuch, alternativ Yaw und Pitch an das numpad zu binden.</p>
+<p><i>Obwohl Tastatur und Maus normalerweise die präzisesten eingabemethode sind, könnte es sein, dass eine andere Eingabeform besser zu dir passt, probier einfach aus.</i></p>
+<figure class="image image_resized"><img src="/img/recommended_controls_settings.png">
+  <figcaption>Empfohlene Mauseinstellungen</figcaption>
+</figure>

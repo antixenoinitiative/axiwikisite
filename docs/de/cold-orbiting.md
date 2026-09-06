@@ -1,0 +1,36 @@
+---
+title: "Cold Orbiting"
+description: "How to avoid damage using cold orbiting"
+date: 2021-08-19T13:13:25.750Z
+tags: combat, thargoids, interceptors
+---
+
+<h1 id="cold-orbiting" class="toc-header"> Kaltes Orbiten</h1><div>
+</div><p>Cold-Orbiten ist eine Technik, die hauptsächlich mit <strong>kleinen</strong> und <strong>mittleren</strong> Schiffen verwendet wird, um Schäden durch das Hauptgeschütz des Interceptors zu vermeiden. Die Technik ist darauf angewiesen, dass Kühlkörper während der umkreisenden Bewegung um den Interceptor verwendet werden um kalt zu bleiben. Denn ein Thargoid kann dich mit seinem Hauptgeschütz nicht treffen, wenn:</p><div>
+</div><ol>
+<li>Man sich, mit genug Geschwindigkeit, aufrecht zur Blickrichtung des Interceptors bewegt.</li>
+<li>Der Wärmeausstoß des Schiffes unter 20% liegt (Kühlkörper, Thermaler-Entlastungs Strahlenlaser oder Stiller Flug).</li>
+</ol><div>
+</div><p>Cold-Orbiten kann in verschiedenen Phasen des Kampfes verwendet werden; Während man auf das fallen des Schutzschildes wartet, kann es mit dem Thermalen-Entlastungs Strahlenlaser aufrechterhalten werden. Während eines Gauss Kanonen Angriffs benötigt man andauernden Gebrauch von Kühlkörpern, um das Ansteigen des Wärmeausstoßes auf über 20% zu verhindern.</p><div>
+</div><p>Um effektiv kühl zu umfliegen, muss man bequem mit <strong>Flugstabilisator aus (F/A off)</strong> fliegen können.</p><div>
+</div><p>Diese Technik ist vor allem für mittlere oder kleine Schiffe, große Schiffe werden Schwierigkeiten haben um die erforderliche Geschwindigkeit und Beweglichkeit für eine stabile Umlaufbahn aufrechtzuerhalten. Jedoch ist es möglich, eine Teilumlaufbahn in einigen großen Schiffen (z. B. der Corvte), zu erhalten, so kanns man zumindest einen Teil des Schadens vermeiden.</p><div>
+</div><h2 id="managing-heat" class="toc-header"> Wärmeaustoß verwalten</h2><div>
+</div><p>Hier ein paar Tipps um den Wärmeausstoß im Griff zu behalten:</p><div>
+</div><ul>
+<li>
+<p>Beim Abfeuern von Gauss Kanonen immer Kühlkörper verwenden. Dadurch wird verhindert, dass der Wärmeaustoß über 20% steigt (Kühlkörper spätestens aktivieren wenn der vorherige ausgestoßen wird)</p>
+</li>
+<li>
+<p>Teile deine Gauss-Feuergruppen auf, damit du 2 Gauss-Kanonen zusammen abfeuerst. Dies verhindert, dass der Wärmeausstoß vorübergehend über 20% hochschnellt und der Interceptor einen treffen kann. (schnell genug ausgeführt, verliert man dabei kaum Schaden pro Sekunde - DPS)</p>
+</li>
+</ul><div>
+</div>
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/TpMPMzQFTD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/cWr_ixTAKWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/f-2zN0f__HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

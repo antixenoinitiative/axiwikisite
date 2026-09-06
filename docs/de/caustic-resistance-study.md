@@ -1,0 +1,51 @@
+---
+title: "Caustic Resistance Study"
+description: "An in-depth study into Thargoid Caustic Resistance and Phasing Damage"
+date: 2021-10-06T05:37:01.502Z
+tags: thargoids, caustic missiles, study
+---
+
+<h1>
+    Studie zu kaustischer Resistenz
+</h1>
+<p>
+    <i>
+        Von CMDR Maligno
+    </i>
+</p>
+<p>
+    Das Ziel dieser Studie ist es die folgenden zwei fragen erneut zu bestätigen, die da wären:
+</p>
+<p>
+    Wird der Durchdringungsschaden (durch Schutzschilde) eines Thargoid Interceptor Geschützes auf Rümpfe mit kaustischer Resistenz beeinflusst? (Guardian Rumpfhüllenverstärkungs-Module)
+</p>
+<p>
+    Zählt die prozentuale kaustische Resistenz des Guardian Rumpfhüllenverstärkungs Moduls linear oder nicht-linear?
+</p>
+<h2>Experiment 1
+</h2>
+<p>
+    Jede Schiffsaustattung wurde gegen einen Medusa Interceptor nach Zerstörung des Schwarms durchgeführt (von weit weg, um keinen Schaden zu nehmen).
+    Bevor die Schutzschilde fielen, war die Rumpfhülle in jedem Fall zu 48% reduziert, was bedeutet der kaustische Schaden des Geschützes ignoriert Resistenzen.
+</p>
+<h2>
+    Experiment 2
+</h2>
+<p>
+    Jede Schiffsaustattung wurde ohne Schutzschilde gegen einen Medusa Interceptor, nach Zerstörung des Schwarms, getestet. Auch hier wurde darauf geachtet keinen Schaden zu nehmen. Wie in der Abbildung unten zu sehen, wurde der Schaden beim Test mit kaustischer Resistenz um den ungefähr richtigen Anteil reduziert. Es gibt eine inhärente Fehlermarge in den Messungen, plus einen geringen Unterschied bei der Rumpfhüllenstärke zwischen den beiden Austattungen (nur 4 Punkte), und den gelegentlich verfehlten Schuss des Interceptors.
+</p>
+<figure class="image image_resized">
+    <img
+        src="/img/caustic_resistance_study.png">
+</figure>
+<h2>
+    Unterm Strich
+</h2>
+<p>
+    Nein, Durchdringungsschaden wird von kaustischer Resistenz nicht beeinflusst, wie zuvor angenommen.
+</p>
+<p>
+    Ja, kaustische Resistenz scheint, wie zuvor angenommen und bei EDSY dokumentiert, zu funktionieren und auf eine nicht-lineare Weise stapelbar zu sein. Siehe
+    <a href="/en/internals"> Module</a>
+    für alle Details.
+</p>

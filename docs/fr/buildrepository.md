@@ -1,0 +1,18 @@
+---
+title: "Build Repository"
+description: "Repository of submitted Anti-Xeno Ship Builds"
+date: 2021-10-06T05:39:08.118Z
+tags: builds, outfitting
+---
+
+<h1 id="build-repository" class="toc-header"> Build Repository</h1><div>
+</div><p>Il existe de nombreuses façons d'équiper un vaisseau Anti-Xeno. The <strong>AXI Ship Build Repository</strong> is a detailed collection of all builds created and submitted by CMDRs of the AXI to be shared among pilots. These builds are curated by the Staff team before being published to ensure quality and accuracy. If you have any concerns about these builds, please contact a staff member.</p><div>
+</div><ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1tshjtvrFU9lDkd8kGcnsE1dRdGaDwqz-KKAr0RkDzWg/edit?usp=sharing" class="is-external-link" target="_blank" rel="noreferrer">Click here to view the full Repository</a></li>
+</ul><div>
+</div>
+<div>
+  <div class="iframeContainer">
+    <iframe class="spreadSheet" src="https://docs.google.com/spreadsheets/d/1tshjtvrFU9lDkd8kGcnsE1dRdGaDwqz-KKAr0RkDzWg/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>

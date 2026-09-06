@@ -1,0 +1,12 @@
+---
+title: "Gibbing"
+description: "How to Insta-Gib Thargoids"
+date: 2021-06-27T22:10:18.366Z
+tags: combat, gibbing
+---
+
+<h1>Gibben (Instagib)</h1>
+<p>Gibbing (Instagibbing) ist der Begriff, der sich auf den Einsatz einer überwältigenden Feuerkraft bezieht, um einen Thargoid Interceptor, bevor seine Verteidigung reagieren kann, zu zerstören. Durch den Angriff auf einen Thargoid mit ausreichender Feuerkraft ist es möglich, den Rumpf des Interceptors schneller auf 0 zu reduzieren, als die Gesundheitsregeneration heilen kann. Normalerweise erfordert dies eine große Anzahl von Piloten, um den Interceptor gleichzeitig anzugreifen.</p>
+<p>Es ist auch möglich, einen Cyclops mit einem einzigen CMDR zu "gibben", Dies funktioniert jedoch nur mit <strong>4x großen Splitterkanonen</strong> und <strong>Premium Munition.</strong>
+</p>
+<p><a href="https://youtu.be/Kvr-TyFCNyE">Video: Erstes Hydra Instagibbing</a></p>

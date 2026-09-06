@@ -1,0 +1,37 @@
+---
+title: "Gemi Listesi Havuzu"
+description: "Üyelerimizin oluşturduğu AX gemileri"
+date: 2021-11-02T02:54:07.743Z
+tags: builds, outfitting
+---
+
+<h1 id="build-repository" class="toc-header">Gemi Listesi</h1>
+<p>
+  Bir Anti-Xeno gemisi toplamanın bir çok yolu vardır.
+  <strong>AXI Gemi Listesi Havuzu</strong> AXI CMDR'ları tarafından oluşturulup
+  paylaşılan gemileri içermektedir. Bu gemiler yayınlanmadan önce, kaliteden ve
+  doğruluklarından emin olmak için görevliler tarafından gözden geçirilip
+  düzenlenmiştir. Herhangi bir sorununuz olması durumunda bir görevliyle
+  iletişime geçin.
+</p>
+<ul>
+  <li>
+    <a
+      href="https://docs.google.com/spreadsheets/d/1tshjtvrFU9lDkd8kGcnsE1dRdGaDwqz-KKAr0RkDzWg/edit?usp=sharing"
+      class="is-external-link"
+      target="_blank"
+      rel="noreferrer"
+      >Tüm listeyi görmek için buraya tıklayınız</a
+    >
+  </li>
+</ul>
+<div>
+  <div class="iframeContainer">
+    <iframe
+      class="spreadSheet"
+      src="https://docs.google.com/spreadsheets/d/1tshjtvrFU9lDkd8kGcnsE1dRdGaDwqz-KKAr0RkDzWg/edit?usp=sharing"
+      frameborder="0"
+      allowfullscreen
+    ></iframe>
+  </div>
+</div>

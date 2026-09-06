@@ -1,0 +1,144 @@
+---
+title: "Rate your own fight"
+description: "Grading rubric and self-assessment"
+date: 2021-08-19T13:13:41.299Z
+tags: combat
+---
+
+<h1>AXI Entwicklungs-Rang Erwartungshorizont &amp; Rubrik &nbsp; &nbsp; &nbsp;</h1>
+<figure class="table">
+  <table>
+    <tbody>
+      <tr>
+        <td><strong>Kategorie</strong></td>
+        <td>
+          <p>F</p>
+        </td>
+        <td>
+          <p>C</p>
+        </td>
+        <td>
+          <p>B</p>
+        </td>
+        <td>
+          <p>A</p>
+        </td>
+        <td>
+          <p>S</p>
+        </td>
+        <td>
+          <p>Gewichtung</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Schiff Build</strong></td>
+        <td>CMDR missachtet grundlegende Richtlinien für Builds. Der CMDR versucht von Anfang an Builds zu fliegen, die von der Meta divergieren ohne ein grundlegendes Verständnis hinter dem Zweck der Builds und/ oder &nbsp; der CMDR besteht darauf unmodifizierte Schiffe zu fliegen</td>
+        <td>Der CMDR benutzt ein mäßig modifiziertes Anfängerschiff (meist mit Schild)&nbsp;</td>
+        <td>Der CMDR hat ein empfohlenes "Meta"-Schiff, allerdings mit einigen Mänglen (z.B.: nicht vollständig modifizierte HVPs). Allerdings sind wichtige Module G5 (Verteiler, Düsen, Kraftwerk)</td>
+        <td>&nbsp;Der CMDR hat mindestens ein vollständig modifiziertes Meta-Schiff (Krait, FAS, Challanger, Schildloser Chieftain und/ oder AX Cutter)&nbsp;</td>
+        <td>Der CMDR hat gelernt bewusst von der Meta zu deviieren, um bestimmte Zwecke zu erfüllen und trägt womöglich zur Optimierung der Meta bei. Auf dieser Ebene ist es üblich einige "Meta"-Schiffe zu haben und mehrere Nicht-Meta Schiffe für spezialisierte Zwecke</td>
+        <td>
+          <p>10%</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Kaltes Umkreisen</strong></td>
+        <td>Der CMDR ist nicht in der Lage Kühlkörper zuverlässig zu verwenden und/ oder kann das Ziel nicht umkreisen</td>
+        <td>Der CMDR kann das Ziel nur teilweise umkreisen. Der Schutz der Kühlkörper ist nicht konstant (zu spät eingesetzte Kühlkörper); Die Orbits werden oft unterbrochen; mangelhafte Einhaltung der optimalen Entfernung; Kontolle über das Boosten ist mangelhaft - der CMDR boostet gelegentlich in den Interceptor hinein</td>
+        <td>Der CMDR hat eine mittlemäßige Beherrschung der kalten Orbits - das Umkreisen wird nur manchmal unterbrochen. Die Abdeckung durch Kühlkörper ist gut - es werden selten Kühlkörper verpasst. Die Einhaltung der optimalen Distanz ist ausreichend - das Umkreisen findet in einem Radius von 2-2,5 km statt.</td>
+        <td>Der CMDR Beherrscht den kalten Orbit auf fortschrittliche Weise. Orbits werden selten unterbrochen. Das Einhalten der Reichweite ist nur manchmal lückenhaft - Der Radius der Orbits reicht von 1000- 2500m. Deckung durch Kühlkörper ist noch sehr gut</td>
+        <td>Der CMDR hat die das "normale" kalte Umkreisen gemeistert und hat zusätzlich den Boost-Orbit gelernt. Das Umkreisen unterbricht fast nie. Der CMDR aktiviert Kühlkörper im Voraus und aktiviert sie sogar doppelt (oder dreifach) je nach Zweck des Builds. Das Einhalten der optimalen Reichweite ist ausgezeichnet - der CMDR ist selten außerhalb der 1,5 km Marke.</td>
+        <td>
+          <p>25%</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Zielen, Feuerdisziplin und Schieß-Stil</strong></td>
+        <td>Der CMDR überkorrigiert und ist nicht in der Lage konstant das Herz zu treffen, besonders ohne Stabilisator. Die Schussdisziplin ist mangelhaft - der CMDR lässt seine Wärme übermäßig ansteigen und/oder hat eine sehr geringe Feuerrate. Der CMDR wechselt seine Schüsse selten ab</td>
+        <td>Der CMDR trifft den Interceptor oft und legt das Herz offen, aber ist nicht in der Lage das Herz präzise zu treffen, besonders ohne Stabilitator. Die Rate der Genauigkeit ist &lt;50%. Ein Feuerzyklus kann länger als 3 Sekunden dauern. Der CMDR wechselt möglicherweise Schüsse ab, allerdings in unterschiedlichen Feuergruppen, im Gegensatz zu sich tatsächlich überlagernden Schüssen.</td>
+        <td>Der CMDR zielt mäßig zuverlässig und trifft mäßig oft das Herz. Die Wahrscheinlichkeit zu Treffen liegt zwischen 50 und 60%. Der Rhythmus der Schüsse ist befriedigend - ein Feuerzyklus dauert 2,5 -3s. Der CMDR ist in der Lage die Schüsse abwechselnd zu überlagern.</td>
+        <td>Der CMDR kann gut und konstant zielen. Die Rate der Genauigkeit ist 60-80%. Der Rythmus ist sehr gut - der CMDR erreicht das Limit von 2m2s eines 6A CE Kondensators (2210ms mit einem Kühlkörper aktiv). Der CMDR hat gute Kontrolle über abwechselndes Schießen - mit guter Überlappung.</td>
+        <td>Der CMDR kann ausgezeichnet zielen. Die Rate der Genauigkeit ist 80-100%. Der Rhytmus der Schüsse ist auf die Millisekunde auf das Limit des Energieverteilers angepasst (oder auf die 2050ms Nachladegeschwindigkeit der Gauss Kanonne), und überlappt sich fast perfekt mit dem versetzten Schießen.</td>
+        <td>
+          <p>25%</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Umgang mit Pips</strong></td>
+        <td>Der CMDR hat wenig Aufmerksamkeit für das Pip-Management und hat häufig Probleme mit den Kondensatoren, z.B.: Schießen ohne Pips auf Waffen</td>
+        <td>Der CMDR vehrsteht die Grundlagen des Umgangs mit Pips, hat aber oft falsche Einstellungen während verschiedenen Phasen</td>
+        <td>Der CMDR benutzt Pips zuverlässig in unterschiedlichen Situtionen und hat möglicherweise ein Pip-Makro; der CMDR grät manchmal in kritische Situationen (z.B.: Er hat nicht genug Energie in SYS, um Kühlkörper zu aktivieren)</td>
+        <td>Der CMDR ist gut im Umgang mit Pips und hat regelmäßig die Richtigen Einstellungen für die Phase des Kampfes</td>
+        <td>Der CMDR hat sehr gute Beherrschung über Pips und wechselt je nach Situation während einer Phase</td>
+        <td>
+          <p>10%</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Umgang mit dem Schwarm und Situationsbewusstsein</strong></td>
+        <td>Der CMDR wird oft vom Interceptor "überrascht" und nimmt Schaden in Phasen, in denen das Herz nicht freigelegt wird. Der CMDR fliegt regelmäßig durch den Schwarm (und aktiviert dadurch seine Raketen-Form) Der CMDR verfehlt die meisten seiner Flak-Schüsse.</td>
+        <td>Der CMDR trifft relativ konstant Schüsse mit der Flak, benötigt aber viel Munition, um sogar eine Ball-Formation zu zerstören.</td>
+        <td>Der CMDR kann regelmäßig die "Ball-Formation" zerstören, hat aber Schwierigkeiten mit der Ring-Formation. Der CMDR fliegt immernoch durch den Schwarm und kann die Raketen-Formation visuell nicht von grundlegenden Formationen unterscheiden.</td>
+        <td>Der CMDR kann jede Formation ohne größere Probleme zerstören. Der CMDR kann die unterschiedlichen Schwarmformationen visuell unterscheiden und wird die Raketen-Formation, wenn angebracht, aktiv "zurücksetzten". Der CMDR fliegt selten durch den Schwarm. Falls der CMDR keinen Schild benutzt, ist er in der Lage die Schleichfahrt zu benutzen, um den Schaden zu minimieren, wenn Kühlkörper nicht einzusetzen sind. Falls der CMDR einen Schild benutzt, ist dieser in der Lage kalte Neustarts durchzuführen.</td>
+        <td>Der CMDR ist sehr gut im Umgang mit dem Schwarm. Falls der CMDR eine Flak benutzt. kann dieser die meisten Formationen in Sekunden zerstören. Falls der CMDR keine Flak benutzt, kann dieser konstant einen Boost-Orbit erhalten, während er auf den Schwarm achtet und vermeidet diesen zu erregen. Außerdem ist der CMDR in der Lage den Raketen aktiv auszuweichen, falls dies angebracht ist, selbst wenn der Interceptor im wütendem Zustand ist.</td>
+        <td>
+          <p>15%</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Taktische Entscheidungsfindung und Zeitmanagement</strong></td>
+        <td>Der CMDR wird regelmäßig angreifen, selbst wenn die Aussichten auf Erfolg ungünstig sind (keine Kühlkörper, wenig Hülle, ...). Der CMDR wird selten den Angriff abbrechen, selbst wenn die Kabine fast durchbrochen ist. Der CMDR lässt den Interceptor oft wütend werden</td>
+        <td>Dem CMDR mangelt es an einem grundlegendem Verständnis den Interceptor im richtigen Zeitpunkt anzugreifen und lässt den Interceptor oft wütend werden. Zusätzlich wird der CMDR den Angriff nicht abbrechen, auch wenn es günstig wäre</td>
+        <td>Der CMDR trifft richtige Entscheidungen in gewöhnlichen Szenarios, macht aber taktische Fehler unter Druck (z.B.: Im Kampf gegen wütende Interceptor). Der CMDR amcht gelegentlich taktische Fehler (z.B.: Versuchen wegzurennen, nachdem man vom Blitz getroffen wurde, im Gegensatz zum Zerstören den Herzens)</td>
+        <td>Der CMDR ist grundsätzlich von persönlichen Grenzen und den Grenzen des Schiffs bewusst. Der CMDR wird im Allgemeinen und unter Druck angebrachte Entscheidungen treffen</td>
+        <td>Der CMDR beherrscht nicht nur die Grundlagen eines Progression-Kampfes, sondern setzt den Interceptor mit fortgeschrittenen Taktiken, wie Schilde rammen, unter Druck. Der CMDR macht nur selten Fehler und ist in der Lage blitzschnell Entscheidungen zu treffen, die eine verlorene Situation wiederherstellen.</td>
+        <td>
+          <p>15%</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Punkte</strong></td>
+        <td>
+          <p>0</p>
+        </td>
+        <td>
+          <p>4</p>
+        </td>
+        <td>
+          <p>6</p>
+        </td>
+        <td>
+          <p>8</p>
+        </td>
+        <td>
+          <p>10</p>
+        </td>
+        <td>
+          <p>100%</p>
+        </td>
+      </tr>
+      <tr>
+        <td><strong>Note</strong></td>
+        <td>
+          <p>F</p>
+        </td>
+        <td>
+          <p>C</p>
+        </td>
+        <td>
+          <p>B</p>
+        </td>
+        <td>
+          <p>A</p>
+        </td>
+        <td>
+          <p>S</p>
+        </td>
+        <td>
+          <p>N/A</p>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+<p>&nbsp;</p>

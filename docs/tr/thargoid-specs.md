@@ -1,0 +1,328 @@
+---
+title: "Thargoid Specifications"
+description: "Details specs of Thargoid Interceptors"
+date: 2021-10-30T10:53:22.864Z
+tags: thargoids, interceptors, scouts
+---
+
+
+
+<h1>Thargoid Özellikleri</h1>
+<p>Thargoid Interceptorler ve Scoutlar hakkında bilinen değerlerin detaylı dökümleri.</p>
+<p><strong>CAU</strong> = Caustic Hasar</p>
+<p><strong>ABS</strong> = Saf Hasar</p>
+
+<figure>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="col">&nbsp;                </th>
+        <th scope="col"><strong>Scout</strong>‎‎‎‎‎‎‎‎‎‎</th>
+        <th scope="col"><strong>Cyclops</strong></th>
+        <th scope="col"><strong>Basilisk</strong></th>
+        <th scope="col"><strong>Medusa</strong></th>
+        <th scope="col"><strong>Hydra</strong></th>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Kalp Sayısı</strong></th>
+        <td>YOK</td>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Azami Hız</strong></th>
+        <td>280 m/s</td>
+        <td>450 m/s</td>
+        <td>530 m/s</td>
+        <td>450 m/s</td>
+        <td>450 m/s</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Swarm Büyüklüğü</strong>
+        </th>
+        <td>YOK</td>
+        <td>32</td>
+        <td>64</td>
+        <td>96</td>
+        <td>128</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Enrage Zamanı</strong></th>
+        <td>YOK</td>
+        <td>06:00</td>
+        <td>07:00</td>
+        <td>07:00</td>
+        <td>08:00</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Öldürme Ödülü</strong></th>
+        <td>40,000Cr</td>
+        <td>8 000 000 Cr</td>
+        <td>24 000 000 Cr</td>
+        <td>40 000 000 Cr</td>
+        <td>60 000 000 Cr</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Toplam HP</strong></th>
+        <td>180</td>
+        <td>800</td>
+        <td>1800</td>
+        <td>2500</td>
+        <td>3200</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Kalp HP</strong></th>
+        <td>YOK</td>
+        <td>38</td>
+        <td>70</td>
+        <td>70</td>
+        <td>140</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Zırh Değeri</strong> </th>
+        <td>YOK</td>
+        <td>100</td>
+        <td>140</td>
+        <td>170</td>
+        <td>220</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>İnsan Silahlarına Direnç</strong></th>
+        <td>77%</td>
+        <td>99.00%</td>
+        <td>99.00%</td>
+        <td>99.00%</td>
+        <td>99.00%</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Pasif Yenilenme Hızı %/s</strong></th>
+        <td>YOK</td>
+        <td>0.4</td>
+        <td>0.4</td>
+        <td>0.4</td>
+        <td>0.4</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Pasif Yenilenme Hızı HP/s</strong></th>
+        <td>YOK</td>
+        <td>3.2</td>
+        <td>7.2</td>
+        <td>10</td>
+        <td>12.8</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Pörtlemiş Yenilenme Hızı</strong></th>
+        <td>YOK</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Kalkan Gücü</strong></th>
+        <td>YOK</td>
+        <td>2450</td>
+        <td>4300</td>
+        <td>6150</td>
+        <td>8000</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Kalkan Erime Hızı</strong></th>
+        <td>YOK</td>
+        <td>25 Mj/s</td>
+        <td>25 Mj/s</td>
+        <td>25 Mj/s</td>
+        <td>25 Mj/s</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Kalkan Erime Süresi (100%'den 0%'a)</strong></th>
+        <td>YOK</td>
+        <td>01:38</td>
+        <td>02:51</td>
+        <td>04:05</td>
+        <td>05:19</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Silah Yaylım Büyüklüğü</strong></th>
+        <td>3</td>
+        <td>4</td>
+        <td>8</td>
+        <td>12</td>
+        <td>12</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Silah Menzili</strong></th>
+        <td>~3 km</td>
+        <td>~3 km</td>
+        <td>~3 km</td>
+        <td>~3 km</td>
+        <td>~3 km</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Silah Yeniden Doldurma Süresi</strong></th>
+        <td>YOK</td>
+        <td>00:10</td>
+        <td>00:15</td>
+        <td>00:10</td>
+        <td>00:05</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Saldırı Evresi Süresi</strong></th>
+        <td>YOK</td>
+        <td>~0:30</td>
+        <td>~0:26</td>
+        <td>~0:26</td>
+        <td>~0:20</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Yaylım Başına Saf Hasar</strong></th>
+        <td>YOK</td>
+        <td>20 (CAU)</td>
+        <td>68 (CAU)</td>
+        <td>132 (CAU)</td>
+        <td>163 (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Yaylım Başına Kalkan Hasarı</strong></th>
+        <td>YOK</td>
+        <td>~8 (CAU)</td>
+        <td>~28 (CAU)</td>
+        <td>~53 (CAU)</td>
+        <td>~65 (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Yaylım Başına Gövdeye Geçen Phasing Hasarı</strong></th>
+        <td>YOK</td>
+        <td>~1 (ABS)</td>
+        <td>~4 (ABS)</td>
+        <td>~12 (ABS)</td>
+        <td>~12 (ABS)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Yaylım Başına Gövdeye Doğrudan Hasar</strong></th>
+        <td>YOK</td>
+        <td>20 (CAU)</td>
+        <td>68 (CAU)</td>
+        <td>132 (CAU)</td>
+        <td>163 (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Saldırı Evresi Başına Yaylım Sayısı</strong></th>
+        <td>YOK</td>
+        <td>~20 Yaylım</td>
+        <td>~20 Yaylım</td>
+        <td>~18 Yaylım</td>
+        <td>~13 Yaylım</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Saldırı Evresi Başına Kalkan Hasarı</strong></th>
+        <td>YOK</td>
+        <td>~160 (CAU)</td>
+        <td>~560 (CAU)</td>
+        <td>≈954 (CAU)</td>
+        <td>~854 (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Saldırı Evresi Başına Gövdeye Doğrudan Hasar</strong></th>
+        <td>YOK</td>
+        <td>400</td>
+        <td>1360</td>
+        <td>2376</td>
+        <td>2119</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Saldırı Evresi Başına Gövdeye Geçen Phasing Hasarı</strong></th>
+        <td>YOK</td>
+        <td>~20 (ABS)</td>
+        <td>~80 (ABS)</td>
+        <td>~216 (ABS)</td>
+        <td>~156 (ABS)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Silah DPS (Kalkana)</strong></th>
+        <td>YOK</td>
+        <td>~5/s (CAU)</td>
+        <td>~19/s (CAU)</td>
+        <td>~35/s (CAU)</td>
+        <td>~43/s (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Silah DPS (Gödeye Doğrudan)</strong></th>
+        <td>YOK</td>
+        <td>~13/s (CAU)</td>
+        <td>~45/s (CAU)</td>
+        <td>~88/s (CAU)</td>
+        <td>~109/s (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Silah DPS (Gövdeye Phasing)</strong></th>
+        <td>YOK</td>
+        <td>~0.7/s (ABS)</td>
+        <td>~2.7/s (ABS)</td>
+        <td>~8/s (ABS)</td>
+        <td>~8/s (ABS)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Şimşek Süresi</strong></th>
+        <td>YOK</td>
+        <td>00:08</td>
+        <td>00:10</td>
+        <td>00:12</td>
+        <td>00:14</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Şimşek Hasarı</strong></th>
+        <td>YOK</td>
+        <td>800</td>
+        <td>1700</td>
+        <td>2800</td>
+        <td>4400</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>İlk Kalbi pörtletmek için gereken hasar</strong></th>
+        <td>YOK</td>
+        <td>160</td>
+        <td>360</td>
+        <td>500</td>
+        <td>640</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>İlk Kalbi Pörtletmek İçin Gereken&nbsp;</strong><br><strong>Medium Gauss Atışı</strong></th>
+        <td>YOK</td>
+        <td>6</td>
+        <td>12</td>
+        <td>24</td>
+        <td>44</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Kalp Parçalamak İçin Gereken&nbsp;<br>Medium Gauss Atışı</strong></th><td>YOK</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td>13</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Pörtleme İçin Gereken Gövde Hasarı %</strong></th>
+        <td>YOK</td>
+        <td>Kalp 1: 20%&nbsp;<br>Kalp 2: 16%&nbsp;<br>Kalp 3: 12%&nbsp;<br>Kalp 4: 8%
+        </td>
+        <td>Kalp 1: 20%<br>Kalp 2: 16%<br>Kalp 3: 14%<br>Kalp 4: 10%<br>Kalp 5: 8%
+        </td>
+        <td>Kalp 1: 20%&nbsp;<br>Kalp 2: 17%&nbsp;<br>Kalp 3: 15%<br>Kalp 4: 12%<br>Kalp 5: 10%<br>Kalp 6: 7%
+        </td>
+        <td>Kalp 1: 20%<br>Kalp 2: 18%<br>Kalp 3: 16%<br>Kalp 4: 14%<br>Kalp 5: 12%<br>Kalp 6: 10%<br>Kalp 7: 8%<br>Kalp 8: 6%
+        </td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Pörtleme İçin Düşülmesi Gereken<br>Kalan Gövde Miktarının %</strong></th>
+        <td>YOK</td>
+        <td>80</td>
+        <td>80</td>
+        <td>80</td>
+        <td>80</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,0 +1,17 @@
+---
+title: "Synthesis Calculator"
+description: "Calculate materials required for Synthesis of AX Ammo"
+date: 2021-10-06T05:37:44.662Z
+tags: engineering, synthesis, calculator
+---
+
+<h1>Synthese Rechner</h1>
+<p>Rechner von CMDR Th3Hero. Berechne die Menge an Materialien, die du benötigst, um eine bestimmte Menge an Synthesen herzustellen</p>
+<p></p>
+<div>
+  <div class="iframeContainer">
+    <iframe src="https://th3-hero.github.io/AX-Synthesis-Calculator/" frameborder="0" allowfullscreen
+></iframe>
+  </div>
+</div>
+<p>Github Repo: <a href="https://github.com/Th3-Hero/AX-Synthesis-Calculator">https://github.com/Th3-Hero/AX-Synthesis-Calculator</a></p>

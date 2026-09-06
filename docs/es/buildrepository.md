@@ -1,0 +1,18 @@
+---
+title: "Build Repository"
+description: "Repository of submitted Anti-Xeno Ship Builds"
+date: 2021-10-06T05:38:04.658Z
+tags: builds, outfitting
+---
+
+<h1 id="build-repository" class="toc-header"> Colección de Construcciones</h1><div>
+</div><p>Hay muchas maneras diferentes de construir una nave Anti-Xeno. La <strong>colección de construcciones de naves AXI</strong> es una colección detallada de todas las construcciones creadas y enviadas por los CMDTs de la AXI para ser compartidas entre los pilotos. Estas construcciones son supervisadas por el equipo de personal antes de ser publicadas para asegurar la calidad y la precisión. Si tiene alguna duda acerca de estas construcciones, póngase en contacto con un miembro del personal.</p><div>
+</div><ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1tshjtvrFU9lDkd8kGcnsE1dRdGaDwqz-KKAr0RkDzWg/edit?usp=sharing" class="is-external-link" target="_blank" rel="noreferrer">Haga clic aquí para ver la colección completa</a></li>
+</ul><div>
+</div>
+<div>
+  <div class="iframeContainer">
+    <iframe class="spreadSheet" src="https://docs.google.com/spreadsheets/d/1tshjtvrFU9lDkd8kGcnsE1dRdGaDwqz-KKAr0RkDzWg/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>

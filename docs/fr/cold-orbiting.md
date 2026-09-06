@@ -1,0 +1,36 @@
+---
+title: "Cold Orbiting"
+description: "How to avoid damage using cold orbiting"
+date: 2021-06-27T22:11:14.500Z
+tags: combat, thargoids, interceptors
+---
+
+<h1 id="cold-orbiting" class="toc-header"> Cold Orbiting</h1><div>
+</div><p>Le cold orbiting est une technique utilisée principalement avec des vaisseaux de taille <strong>petite</strong> et <strong>moyenne</strong>. Elle sert à éviter les dégâts du canon principal de l'intercepteur. Le cold orbiting consiste à utiliser des dissipateurs thermiques pour rester froid et d'orbiter autour de l'intercepteur. Ainsi, le Thargoïd ne peut pas vous toucher avec son canon principal quand:</p><div>
+</div><ol>
+<li>Vous vous déplacez perpendiculairement à la direction que le Thargoïd "vise", et ce avec une vitesse suffisante.</li>
+<li>La chaleur de votre vaisseau est inférieure à 20% (dissipateurs thermiques, rayons laser avec l'effet expérimental ventilation thermique ou mode furtif)</li>
+</ol><div>
+</div><p>Le cold orbiting peut être utilisé dans différentes phases du combat. En attendant que le bouclier de l'intercepteur ne disparaisse, la basse température peut être conservée à l'aide d'un rayon laser avec ventilation thermique. Lors d'une phase attaque avec un canon de gauss, vous aurez cette fois besoin de dissipateurs thermiques en permanence pour éviter de dépasser le seuil de 20% de chaleur.</p><div>
+</div><p>Pour effectuer un cold orbiting efficace, vous devrez être en mesure de voler confortablement en mode <strong>assistance de vol désactivée</strong>.</p><div>
+</div><p>Cette technique est principalement conçue pour les vaisseaux de taille petite ou moyenne; les vaisseaux de taille large doivent en effet lutter pour maintenir la vitesse et l'agilité nécessaires pour orbiter. Cependant, il est possible d'entrer dans une sorte d'orbite partielle avec certains vaisseaux de taille large (comme la Corvette), ce qui vous permet d'éviter au moins une partie des dégâts.</p><div>
+</div><h2 id="managing-heat" class="toc-header"> Gestion de la chaleur</h2><div>
+</div><p>Afin de garder le contrôle de votre chaleur, voici quelques conseils :</p><div>
+</div><ul>
+<li>
+<p>Utilisez en permanence des dissipateurs thermiques lorsque vous tirez avec des canons de gauss. Cela empêchera votre chaleur de dépasser le seuil des 20% (déployez un nouveau dissipateur thermique lorsque le précédent a été éjecté, au minimum)</p>
+</li>
+<li>
+<p>Divisez vos groupes d'armes contenant les gauss en deux. Ne tirez ainsi qu'avec 2 gauss à la fois. Cela empêchera que votre chaleur dépasse temporairement le seuil des 20%, ce qui permettrait au thargoïd de vous toucher. (si vous enchaînez les tirs suffisamment vite, cela vous permettra de ne pas perdre beaucoup de DPS)</p>
+</li>
+</ul><div>
+</div>
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/TpMPMzQFTD0" title="Lecteur vidéo YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/cWr_ixTAKWU" title="Lecteur vidéo YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/f-2zN0f__HA" title="Lecteur vidéo YouTube" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

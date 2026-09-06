@@ -1,0 +1,36 @@
+---
+title: "Cold Orbiting"
+description: "How to avoid damage using cold orbiting"
+date: 2022-01-20T10:14:19.453Z
+tags: combat, thargoids, interceptors
+---
+
+<h1 id="cold-orbiting" class="toc-header"> Холодная орбита</h1><div>
+</div><p>Холодная орбита - это техника, используемая в основном на <strong>малых</strong> и <strong>средних</strong> кораблях, чтобы избежать повреждений, ноносимых основной пушкой перехватчика. Холодная орбита основана на использовании теплоотводов для сохранения холода при движении по орбите вокруг перехватчика, при этом таргоид не может поразить вас из своего основного орудия:</p><div>
+</div><ol>
+<li>Вы двигаетесь перпендикулярно направлению движения таргоида с достаточной скоростью.</li>
+<li>Эффективный нагрев вашего корабля должен быть ниже 20% (применяйте: теплоотводы, пучковый лазер с экспериментальным эффектом «Теплоотдача» или используйте бесшумный ход)</li>
+</ol><div>
+</div><p>Холодная орбита может быть использована в разных фазах боя. Пока вы ждёте, пока спадёт щит, холодную орбиту можно поддерживать с помощью пучкового лазера с экспериментальным эффектом «Теплоотдача». Во время стрельбы из пушек Гаусса Стражей вам потребуется постоянно выбрасывать теплоотводы, чтобы не превысить 20% порога тепловыделения.</p><div>
+</div><p>Для эффективного применения холодной орбиты вам необходимо будет во время полёта применять режим <strong>Flight Assist Off</strong> (Ассистент полёта выкл.).</p><div>
+</div><p>Эта техника предназначена в основном для средних или малых кораблей, большим кораблям будет сложно поддерживать необходимую скорость и манёвренность для удержания корабля на орбите перехватчика. Однако на некоторых больших кораблях (например, таком, как Corvette) можно выйти на неполную орбиту, что позволит вам избежать хотя бы части наносимого урона.</p><div>
+</div><h2 id="managing-heat" class="toc-header"> Управление тепловыделением</h2><div>
+</div><p>Вот несколько советов, чтобы сохранить контроль над уровнем тепловыделения своего корабля:</p><div>
+</div><ul>
+<li>
+<p>Всегда используйте теплоотводы при стрельбе из пушек Гаусса. Это предотвратит нагрев выше 20% порога (как минимум, выпустите теплоотвод, когда предыдущий уже выброшен)</p>
+</li>
+<li>
+<p>Разделите огневые группы с пушками Гаусса пополам, чтобы можно было одновременно вести стрельбу только из 2 пушек Гаусса. Это предотвратит временный скачок температуры выше порога 20%, что позволит таргоиду попасть по вашему кораблю. (если делать это достаточно быстро, то можно сделать без ощутимой потери УвС)</p>
+</li>
+</ul><div>
+</div>
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/TpMPMzQFTD0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/cWr_ixTAKWU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div class="iframeContainer">
+    <iframe src="https://www.youtube.com/embed/f-2zN0f__HA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

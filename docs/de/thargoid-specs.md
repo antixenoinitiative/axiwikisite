@@ -1,0 +1,328 @@
+---
+title: "Thargoid Specifications"
+description: "Details specs of Thargoid Interceptors"
+date: 2021-07-07T13:28:37.511Z
+tags: thargoids, interceptors, scouts
+---
+
+
+
+<h1>Thargoid-Spezifikationen</h1>
+<p>Detaillierte Spezifikationen zu den bekannten Werten verschiedener Thargoid Interceptors und Scouts.</p>
+<p><strong>CAU</strong> = Kaustischer Schaden</p>
+<p><strong>ABS</strong> = Absoluter Schaden</p>
+
+<figure>
+  <table>
+    <tbody>
+      <tr>
+        <th scope="col">&nbsp;                </th>
+        <th scope="col"><strong>Scout</strong>‎‎‎‎‎‎‎‎‎‎</th>
+        <th scope="col"><strong>Cyclops</strong></th>
+        <th scope="col"><strong>Basilisk</strong></th>
+        <th scope="col"><strong>Medusa</strong></th>
+        <th scope="col"><strong>Hydra</strong></th>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Anzahl der Herzen</strong></th>
+        <td>N/A</td>
+        <td>4</td>
+        <td>5</td>
+        <td>6</td>
+        <td>8</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Höchstgeschwindigkeit</strong></th>
+        <td>280 m/s</td>
+        <td>450 m/s</td>
+        <td>530 m/s</td>
+        <td>450 m/s</td>
+        <td>450 m/s</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Schwarmgröße</strong>
+        </th>
+        <td>N/A</td>
+        <td>32</td>
+        <td>64</td>
+        <td>96</td>
+        <td>128</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Wut Timer</strong></th>
+        <td>N/A</td>
+        <td>06:00</td>
+        <td>07:00</td>
+        <td>07:00</td>
+        <td>08:00</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Belohnung</strong></th>
+        <td>40,000Cr</td>
+        <td>8,000,000Cr</td>
+        <td>24,000,000Cr</td>
+        <td>40,000,000Cr</td>
+        <td>60,000,000Cr</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Gesamt Leben</strong></th>
+        <td>180</td>
+        <td>800</td>
+        <td>1800</td>
+        <td>2500</td>
+        <td>3200</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Herz Leben</strong></th>
+        <td>N/A</td>
+        <td>38</td>
+        <td>70</td>
+        <td>70</td>
+        <td>140</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Rüstungswertung</strong> </th>
+        <td>N/A</td>
+        <td>100</td>
+        <td>140</td>
+        <td>170</td>
+        <td>220</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Resistenz gegen Menschliche Waffen</strong></th>
+        <td>77%</td>
+        <td>99.00%</td>
+        <td>99.00%</td>
+        <td>99.00%</td>
+        <td>99.00%</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Passive Regenerationsgeschwindigkeit %/s</strong></th>
+        <td>N/A</td>
+        <td>0.4</td>
+        <td>0.4</td>
+        <td>0.4</td>
+        <td>0.4</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Passive Regenerationsgeschwindigkeit HP/s.</strong></th>
+        <td>N/A</td>
+        <td>3.2</td>
+        <td>7.2</td>
+        <td>10</td>
+        <td>12.8</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Rumpf-Regenerationsgeschwindigkeit bei offenem Herzen</strong></th>
+        <td>N/A</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Schildstärke</strong></th>
+        <td>N/A</td>
+        <td>2450</td>
+        <td>4300</td>
+        <td>6150</td>
+        <td>8000</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Schild zerfallrate</strong></th>
+        <td>N/A</td>
+        <td>25 Mj/s</td>
+        <td>25 Mj/s</td>
+        <td>25 Mj/s</td>
+        <td>25 Mj/s</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Schildzerfallzeit (100% bis 0%)</strong></th>
+        <td>N/A</td>
+        <td>01:38</td>
+        <td>02:51</td>
+        <td>04:05</td>
+        <td>05:19</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Kanonensalvengröße</strong></th>
+        <td>3</td>
+        <td>4</td>
+        <td>8</td>
+        <td>12</td>
+        <td>12</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Kanonen-Reichweite</strong></th>
+        <td>~3km</td>
+        <td>~3km</td>
+        <td>~3km</td>
+        <td>~3km</td>
+        <td>~3km</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Kanonennachladegeschwindigkeit</strong></th>
+        <td>N/A</td>
+        <td>00:10</td>
+        <td>00:15</td>
+        <td>00:10</td>
+        <td>00:05</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Angriffsdauer</strong></th>
+        <td>N/A</td>
+        <td>≈0:30</td>
+        <td>≈0:26</td>
+        <td>≈0:26</td>
+        <td>≈0:20</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Schaden pro Salve</strong></th>
+        <td>N/A</td>
+        <td>20 (CAU)</td>
+        <td>68 (CAU)</td>
+        <td>132 (CAU)</td>
+        <td>163 (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Schildschaden pro Salve§</strong></th>
+        <td>N/A</td>
+        <td>≈8 (CAU)</td>
+        <td>≈28 (CAU)</td>
+        <td>≈53 (CAU)</td>
+        <td>≈65 (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Durchdringungs Rumpfschaden pro Salve</strong></th>
+        <td>N/A</td>
+        <td>≈1 (ABS)</td>
+        <td>≈4 (ABS)</td>
+        <td>≈12 (ABS)</td>
+        <td>≈12 (ABS)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Direkter Rumpfschaden pro Salve†</strong></th>
+        <td>N/A</td>
+        <td>20 (CAU)</td>
+        <td>68 (CAU)</td>
+        <td>132 (CAU)</td>
+        <td>163 (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Salven pro Angriffslauf</strong></th>
+        <td>N/A</td>
+        <td>≈20 Salven</td>
+        <td>≈20 Salven</td>
+        <td>≈18 Salven</td>
+        <td>≈13 Salven</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Schildschaden pro Angriffslauf§</strong></th>
+        <td>N/A</td>
+        <td>≈160 (CAU)</td>
+        <td>≈560 (CAU)</td>
+        <td>≈954 (CAU)</td>
+        <td>≈854 (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Direkter Rumpfschaden pro Angriffslauf†</strong></th>
+        <td>N/A</td>
+        <td>400</td>
+        <td>1360</td>
+        <td>2376</td>
+        <td>2119</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Durchdringungs Rumpfschaden pro Angriffslauf</strong></th>
+        <td>N/A</td>
+        <td>≈20 (ABS)</td>
+        <td>≈80 (ABS)</td>
+        <td>≈216 (ABS)</td>
+        <td>≈156 (ABS)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Kanonen-DPS (Schild)§</strong></th>
+        <td>N/A</td>
+        <td>≈5/s (CAU)</td>
+        <td>≈19/s (CAU)</td>
+        <td>≈35/s (CAU)</td>
+        <td>≈43/s (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Kanonen-DPS (Direkter Rumpf)†</strong></th>
+        <td>N/A</td>
+        <td>≈13/s (CAU)</td>
+        <td>≈45/s (CAU)</td>
+        <td>≈88/s (CAU)</td>
+        <td>≈109/s (CAU)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Kanonen-DPS (Durchdringungs Rumpf)</strong></th>
+        <td>N/A</td>
+        <td>≈0.7/s (ABS)</td>
+        <td>≈2.7/s (ABS)</td>
+        <td>≈8/s (ABS)</td>
+        <td>≈8/s (ABS)</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Blitz Dauer</strong></th>
+        <td>N/A</td>
+        <td>00:08</td>
+        <td>00:10</td>
+        <td>00:12</td>
+        <td>00:14</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Blitzschaden</strong></th>
+        <td>N/A</td>
+        <td>800</td>
+        <td>1700</td>
+        <td>2800</td>
+        <td>4400</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Schaden um das erste Herz zu öffnen</strong></th>
+        <td>N/A</td>
+        <td>160</td>
+        <td>360</td>
+        <td>500</td>
+        <td>640</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Optimale Mittlere Gauss&nbsp;</strong><br><strong>Schüsse um das erste Herz zu öffnen</strong></th>
+        <td>N/A</td>
+        <td>6</td>
+        <td>12</td>
+        <td>24</td>
+        <td>44</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Optimale Mittlere Gauss&nbsp;<br>Schüsse um ein Herz zu zerstören</strong></th><td>N/A</td>
+        <td>3</td>
+        <td>4</td>
+        <td>5</td>
+        <td>13</td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Benötigter Rumpfschaden % um Herz zu öffnen</strong></th>
+        <td>N/A</td>
+        <td>Herz 1: 20%&nbsp;<br>Herz 2: 16%&nbsp;<br>Herz 3: 12%&nbsp;<br>Herz 4: 8%
+        </td>
+        <td>Herz 1: 20%<br>Herz 2: 16%<br>Herz 3: 14%<br>Herz 4: 10%<br>Herz 5: 8%
+        </td>
+        <td>Herz 1: 20%&nbsp;<br>Herz 2: 17%&nbsp;<br>Herz 3: 15%<br>Herz 4: 12%<br>Herz 5: 10%<br>Herz 6: 7%
+        </td>
+        <td>Herz 1: 20%<br>Herz 2: 18%<br>Herz 3: 16%<br>Herz 4: 14%<br>Herz 5: 12%<br>Herz 6: 10%<br>Herz 7: 8%<br>Herz 8: 6%
+        </td>
+      </tr>
+      <tr>
+        <th scope="row"><strong>Herz öffnungs Schwellenwert<br>in % des aktuellen maximalen Rumpfes</strong></th>
+        <td>N/A</td>
+        <td>80</td>
+        <td>80</td>
+        <td>80</td>
+        <td>80</td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

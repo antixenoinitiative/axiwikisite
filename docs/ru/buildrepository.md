@@ -1,0 +1,18 @@
+---
+title: "Build Repository"
+description: "Repository of submitted Anti-Xeno Ship Builds"
+date: 2021-10-06T05:41:13.997Z
+tags: builds, outfitting
+---
+
+<h1 id="build-repository" class="toc-header"> Хранилище аутфитов</h1><div>
+</div><p>Существует множество различных способов построения Анти-Ксено корабля. <strong>Хранилище сборок кораблей</strong> это детальная коллекция всех сборок созданных и предложенных Командирами AXI для распространения среди пилотов. Эти сборки курируются командой Модераторов перед их публикацией для обеспечения качества и аккуратности. Если у вас есть какие-либо вопросы на счёт этих сборок, пожалуйста свяжитесь с Модератором.</p><div>
+</div><ul>
+<li><a href="https://docs.google.com/spreadsheets/d/1tshjtvrFU9lDkd8kGcnsE1dRdGaDwqz-KKAr0RkDzWg/edit?usp=sharing" class="is-external-link" target="_blank" rel="noreferrer">Нажмите сюда для просмотра полного Архива</a></li>
+</ul><div>
+</div>
+<div>
+  <div class="iframeContainer">
+    <iframe class="spreadSheet" src="https://docs.google.com/spreadsheets/d/1tshjtvrFU9lDkd8kGcnsE1dRdGaDwqz-KKAr0RkDzWg/edit?usp=sharing" frameborder="0" allowfullscreen></iframe>
+  </div>
+</div>

@@ -1,0 +1,53 @@
+---
+title: "Caustic Direnci Araştırması"
+description: "Caustic ve Süzülen hasara dair detaylı araştırma"
+date: 2021-11-02T02:54:14.538Z
+tags: thargoids, caustic missiles, study
+---
+
+<h1>Caustic Direnci Araştırması</h1>
+<p>
+  <em> CMDR Maligno tarafından </em>
+</p>
+<p>Bu araştırmanın hedefi aşağıdaki iki sorunun yanıtlarını teyit etmektir:</p>
+<p>
+  Thargoid Interceptor'ün ana topunun süzülen hasarı, gövdenin caustic direnci
+  tarafından sönümleniyor mu? (Guardian Hull Reinforcement Modülleri)
+</p>
+<p>
+  Guardian Hull Reinforcement Modüllerinin caustic direnci doğrusal mı yoksa
+  doğrusal olmayan biçimde mi birbirine ekleniyor?
+</p>
+
+<h2>Deney 1</h2>
+<p>
+  Her donanım; Medusa Interceptor'üne karşı, Swarm -uzaktan, hasar almadan- yok
+  edildikten sonra test edilmiştir. Kalkanlar düşmeden önce her durumda da gövde
+  sağlığı 48%'e düşmüştür; bu da ana silahın süzülen hasarının gövde caustic
+  direncini yok saydığı anlamına gelmektedir.
+</p>
+
+<h2>Deney 2</h2>
+<p>
+  Her donanım, bu sefer kalkanlar olmadan; Medusa Interceptor'üne karşı, Swarm
+  -uzaktan, hasar almadan- yok edildikten sonra test edilmiştir. Aşağıda da
+  gösterildiği gibi, caustic direnci neredeyse beklenilen oranda hasar
+  engelledi. Hesaplamadaki 0.9% hata payına ek olarak iki donanım arasında çok
+  az bir gövde sağlığı farkı (sadece 4 puan kadar) ve Interceptor'ün arada bir
+  kaçırdığı atışlar da var.
+</p>
+
+<figure class="image image_resized">
+  <img src="/img/caustic_resistance_study.png" />
+</figure>
+
+<h2>Sonuç</h2>
+<p>
+  Hayır, daha önce düşünülenin aksine; süzülen hasar caustic direnci tarafından
+  sönümlenmiyor.
+</p>
+<p>
+  Evet, caustic direnci daha önce düşünüldüğü ve EDSY'de belgelendiği gibi;
+  doğrusal olmayan biçimde birbirine ekleniyor. Detaylar için
+  <a href="/tr/internals"> Modüller</a> bölümüne göz atın.
+</p>

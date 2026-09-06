@@ -1,0 +1,57 @@
+---
+title: "Caustic Resistance Study"
+description: "An in-depth study into Thargoid Caustic Resistance and Phasing Damage"
+date: 2021-10-06T05:38:09.823Z
+tags: thargoids, caustic missiles, study
+---
+
+<h1>
+    Estudio de resistencia cáustica
+</h1>
+<p>
+    <i>
+        Por CMDR Maligno
+    </i>
+</p>
+<p>
+    El objetivo de este estudio es reafirmar las dos siguientes preguntas:
+</p>
+<p>
+    ¿El daño de fase (a través de escudos) de un cañón principal de los interceptores Thargoid mitigado por el casco con resistencia 
+     cáustico? (Módulos de refuerzo del casco guardián)
+</p>
+<p>
+    ¿El porcentaje de resistencia cáustica del módulo de refuerzo del casco guardián cuenta de forma lineal o no lineal?
+</p>
+<h2>Experimento 1
+</h2>
+<p>
+    Probé cada construcción contra un Interceptor Medusa después de eliminar al enjambre (desde lejos, para no recibir daño).
+    Antes de que los escudos colapsaran, en cada caso, el casco se redujo al 48%, lo que significa que el daño gradual del cañón
+     ignora la resistencia cáustica del casco.
+</p>
+<h2>
+    Experimento 2
+</h2>
+<p>
+    Probé cada construcción, pero sin escudos, contra un Medusa Interceptor después de eliminar el enjambre. Una vez más, fue tomado cuidado
+      para no sufrir ningún daño. Como se muestra en la figura siguiente, la prueba de funcionamiento con resistencia cáustica mitigó el incidente.
+     daño aproximadamente en la cantidad correcta. Hay un error inherente del 0,9% en las mediciones, más una ligera diferencia en
+     casco entre las dos construcciones (solo 4 puntos de salud), y el disparo fallado ocasional del Interceptor.
+</p>
+<figure class="image image_resized">
+    <img
+        src="/img/caustic_resistance_study.png">
+</figure>
+<h2>
+    Línea de fondo
+</h2>
+<p>
+    No, el daño por fases no se mitiga con la resistencia cáustica, como se pensaba anteriormente.
+</p>
+<p>
+    Sí, las resistencias cáusticas parecen estar funcionando como se pensaba y documentaba anteriormente en EDSY al apilarse de forma no lineal.
+     método. Vea
+    <a href="/en/internals"> Módulos</a>
+    para más detalles.
+</p>

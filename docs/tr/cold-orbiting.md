@@ -1,0 +1,91 @@
+---
+title: "Soğuk Yörünge"
+description: "Soğuk yörünge ile hasardan nasıl kaçınılır"
+date: 2021-11-02T02:54:16.854Z
+tags: combat, thargoids, interceptors
+---
+
+<h1 id="cold-orbiting" class="toc-header">
+  Cold Orbiting (Soğuk Yörünge Hareketi)
+</h1>
+<p>
+  Cold Orbiting, esasen <strong>küçük</strong> ve
+  <strong>orta</strong> büyüklükte gemilerin Interceptor'ün ana topundan
+  kaçınmak için kullandığı bir tekniktir. Cold Orbiting, sürekli heatsink
+  kullanımıyla sıcaklığınızı düşük tutup, bu esnada Interceptor etrafında
+  yörüngesel bir hareketle dönmeye dayanır. Interceptor'ün ana topu sizi şu
+  durumlarda vuramaz:
+</p>
+<ol>
+  <li>
+    Interceptor'ün yüzünün dönük olduğu yönün dikine bir yönde yeterli hızda
+    hareket ediyorsanız.
+  </li>
+  <li>
+    Geminizin yaydığı ısı değeri 20% eşiğinin altındaysa (Heatsink, Thermal Vent
+    Beam ya da Silent Running kullanımı)
+  </li>
+</ol>
+<p>
+  Cold orbiting savaşın farklı aşamalarında kullanılabilir, kalkanın düşmesini
+  beklerken Thermal Vent Beam ile cold orbiting sürdürülebilir. Gauss'la
+  saldırırken ise sıcaklığınızı 20%'nin altında tutmak için sürekli heatsink
+  kullanımı gerekir.
+</p>
+<p>
+  Soğuk yörüngeyi etkili bir şekilde kullanmak için
+  <strong>Flight Assist kapalıyken</strong> rahat uçabiliyor olmanız
+  gerekmektedir.
+</p>
+<p>
+  Büyük gemiler, gerekli hız ve çevikliği sürdürmekte zorlanacaklarından bu
+  teknik esasen orta ve küçük boy gemiler tarafından kullanılır. Ancak kısmi
+  yörünge hareketleri bazı gemilerde (Corvette gibi) mümkün olup bir miktar
+  hasardan kaçınmanızı sağlayabilir.
+</p>
+<h2 id="managing-heat" class="toc-header">Sıcaklık Yönetimi</h2>
+<p>Sıcaklığınızı kontrol altında tutabilmeniz için birkaç ipucu:</p>
+<ul>
+  <li>
+    <p>
+      Gauss ateşlerken daima heatsink kullanın. Bu sayede sıcaklığınızı 20%'nin
+      altında tutabilirsiniz. (Sink'in gemiden atılma sesini duyduktan hemen
+      sonra diğerini tetikleyin)
+    </p>
+  </li>
+  <li>
+    <p>
+      Gauss atış gruplarınızı ikiye ayırın; tek seferde 2 adet Gauss ateşleyecek
+      şekilde dönüşümlü kullanın. Sıcaklığınızın 20%'nin üzerine anlık
+      fırlamalarının önüne geçecektir. Zamanlamasında ustalaştığınızda DPS kaybı
+      yaşamazsınız.
+    </p>
+  </li>
+</ul>
+<div class="iframeContainer">
+  <iframe
+    src="https://www.youtube.com/embed/TpMPMzQFTD0"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+</div>
+<div class="iframeContainer">
+  <iframe
+    src="https://www.youtube.com/embed/cWr_ixTAKWU"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+</div>
+<div class="iframeContainer">
+  <iframe
+    src="https://www.youtube.com/embed/f-2zN0f__HA"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen
+  ></iframe>
+</div>

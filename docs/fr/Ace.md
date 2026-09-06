@@ -1,0 +1,20 @@
+---
+title: "Ace Leaderboard"
+description: "The Ace Rank Leaderboard"
+date: 2021-10-30T10:51:07.055Z
+tags: 
+---
+
+<h1>Ace Leaderboard</h1>
+
+<p>For those who go beyond. This rank is a true test of a pilot's abilities, based on a composite ammo usage, total damage taken, and time taken scale. Use a Chieftain and any combination of Gauss cannons to defeat a Medusa.</p>
+
+<p>Restrictions<br>
+- Basic Ammo only<br>
+- Ship name must contain 'GTM'<br>
+- Hammer gauss are not allowed</p>
+
+<p>Score your fight using the /ace bot command. The top 10 CMDRs will hold the @Ace rank. This is a competitive system and you can lose this rank should someone push you out of the Top 10.</p>
+
+<h2>Alliance Chieftain</h2>
+<div id="chieflist"></div>
