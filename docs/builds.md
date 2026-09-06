@@ -41,7 +41,8 @@ When starting out, stick to the tried and true. These are our Meta picks. The mo
 <AxiTab title="Alliance Chieftain (Shieldless)">
 
 <img src="/img/alliance-chieftain.png" alt="alliance-chieftain.png" width="250" style="float: right; margin: 0 0 1rem 1rem;" />
-  #### **Alliance Chieftain (Shieldless)**
+
+#### **Alliance Chieftain (Shieldless)**
 
   The shieldless Alliance Chieftain is the undisputed AX meta, just like the Fer-de-Lance in PVP. Providing good hull, cargo space, agility, and firepower, the Chieftain is able to effortlessly cold orbit while maintaining devastating gauss fire. Its ample hardpoints also allow for four gauss cannons in addition to a flak launcher and thermal vent beam laser. Its sister ship, the Alliance Challenger, provides more damage and hull at the cost of speed.
   
@@ -59,7 +60,8 @@ Recommended: [Meta Build](https://edsy.org/#/L=J900000H4C0S40,LYS10LYS10L3I10LXC
 <AxiTab title="Corsair (Shieldless)">
 
 <img src="/img/corsair.png" alt="corsair.png" width="250" style="float: right; margin: 0 0 1rem 1rem;" />
-  #### **Corsair (Shieldless)**
+
+#### **Corsair (Shieldless)**
 
   The Corsair, while not as maneuverable as the chief or challenger, provides great damage output, versatility and speed. The Corsairs' massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively. It is the recommended medium with the most survivability. This is also a great platform for mounting Enhanced AXMCs for commanders who do not yet have access to guardian tech.
 
@@ -97,7 +99,8 @@ Also known as the “Easy Mode” Corsair. Two medium Modplasmas combined with t
 <AxiTab title="Krait Mk.II (Shieldless)">
 
 <img src="/img/krait-mk-ii.png" alt="krait-mk-ii.png" width="250" style="float: right; margin: 0 0 1rem 1rem;" />
-  #### **Krait Mk.II (Shieldless)**
+
+#### **Krait Mk.II (Shieldless)**
 
   The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively (when dropping Flak). This is also a great platform for mounting Enhanced AXMCs for commanders who do not yet have access to guardian tech.
 
@@ -134,7 +137,8 @@ Replaces three medium Gauss Cannons with Modplasmas.
 <AxiTab title="Alliance Challenger (Shieldless)">
 
 <img src="/img/alliance-challenger.png" alt="alliance-challenger.png" width="250" style="float: right; margin: 0 0 1rem 1rem;" />
-  #### **Alliance Challenger (Shieldless)**
+
+#### **Alliance Challenger (Shieldless)**
 
   The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower alternative with higher damage output against an interceptor’s shields. Depending on preference, it can also have more raw hull than a standard Chieftain build.
   Its three medium hardpoints with good convergence make it a better platform for running modified Shard Cannons or Plasma Chargers, hence it is a popular option for AXCZ's as well.
@@ -179,7 +183,8 @@ Because of the presence of variables outside one's control (NPCs, other Players)
 <AxiTab title="Krait Mk.II (Shieldless)">
 
 <img src="/img/krait-mk-ii.png" alt="krait-mk-ii.png" width="250" style="float: right; margin: 0 0 1rem 1rem;" />
-  #### **Krait Mk.II (Shieldless)**
+
+#### **Krait Mk.II (Shieldless)**
 
   The shieldless Krait, while not as maneuverable as the Chieftain, provides a greater damage output. The Krait's massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively (when dropping Flak). This is also a great platform for mounting Enhanced AXMCs for commanders who do not yet have access to guardian tech.
 
@@ -197,7 +202,8 @@ Because of the presence of variables outside one's control (NPCs, other Players)
 <AxiTab title="Alliance Challenger (Shieldless)">
 
 <img src="/img/alliance-challenger.png" alt="alliance-challenger.png" width="250" style="float: right; margin: 0 0 1rem 1rem;" />
-  #### **Alliance Challenger (Shieldless)**
+
+#### **Alliance Challenger (Shieldless)**
 
   The Alliance Challenger, sister ship of the more popular Alliance Chieftain, is a slower alternative with higher damage output against an interceptor’s shields. Depending on preference, it can also have more raw hull than a standard Chieftain build.
   Its three medium hardpoints with good convergence make it a better platform for running modified Shard Cannons or Plasma Chargers, hence it is a popular option for AXCZ's as well.
@@ -216,7 +222,8 @@ Because of the presence of variables outside one's control (NPCs, other Players)
 <AxiTab title="Corsair (Shieldless)">
 
 <img src="/img/corsair.png" alt="corsair.png" width="250" style="float: right; margin: 0 0 1rem 1rem;" />
-  #### **Corsair (Shieldless)**
+
+#### **Corsair (Shieldless)**
 
   The Corsair, while not as maneuverable as the chief or challenger, provides great damage output, versatility and speed. The Corsairs' massive distributor and numerous hardpoints allow it to mount four of any guardian weapon effectively. It is the recommended medium with the most survivability. This is also a great platform for mounting Enhanced AXMCs for commanders who do not yet have access to guardian tech.
 
@@ -236,7 +243,8 @@ Because of the presence of variables outside one's control (NPCs, other Players)
 <AxiTab title="Alliance Chieftain (Shieldless)">
 
 <img src="/img/alliance-chieftain.png" alt="alliance-chieftain.png" width="250" style="float: right; margin: 0 0 1rem 1rem;" />
-  #### **Alliance Chieftain (Shieldless)**
+
+#### **Alliance Chieftain (Shieldless)**
 
   While the Alliance Chieftain is the undisputed AX meta in solo, the gauss cannons that are so heavily favored by its hardpoint layout do leave some Ammo capacity to be desired. However the  Chieftain is able to effortlessly cold orbit and, especially with closeby re-arms, will still be 
 immensely effective.
@@ -309,7 +317,8 @@ Specific large ship builds are used in Stunlocking, a [speedrunning](https://wik
 <AxiTab title="Federal Corvette (Shieldless)">
 
 <img src="/img/federal-corvette.png" alt="federal-corvette.png" width="250" style="float: right; margin: 0 0 1rem 1rem;" />
-  #### **Federal Corvette (Shieldless)**
+
+#### **Federal Corvette (Shieldless)**
 
   One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. When shieldless, it stays icy cold while firing on all cylinders.
   
@@ -327,7 +336,8 @@ Specific large ship builds are used in Stunlocking, a [speedrunning](https://wik
 <AxiTab title="Federal Corvette (Shielded)">
 
 <img src="/img/federal-corvette.png" alt="federal-corvette.png" width="250" style="float: right; margin: 0 0 1rem 1rem;" />
-  #### **Federal Corvette (Shielded)**
+
+#### **Federal Corvette (Shielded)**
 
   One of the "big three" the Federal Corvette is a force to be reckoned with. Offering a huge power distrubutor and massive hull, the ship loses out only on speed. While this ship takes more skill to fly, it is a favorite of many an experienced AX pilot. By utilizing prismatic or even bi-weave shields, the Corvette can slug it out with the toughest of targets.
   
@@ -345,7 +355,8 @@ Specific large ship builds are used in Stunlocking, a [speedrunning](https://wik
 <AxiTab title="Imperial Cutter (Shielded)">
 
 <img src="/img/imperial-cutter.png" alt="imperial-cutter.png" width="250" style="float: right; margin: 0 0 1rem 1rem;" />
-  #### **Imperial Cutter (Shielded)**
+
+#### **Imperial Cutter (Shielded)**
 
   If you prefer flying large ships the Imperial Cutter is the recommended ship to go with. Out of all the large ships, the Cutter is the only one capable of effectively outrunning most Thargoid Interceptors. The Cutter relies on Prismatic shields to tank large amounts of damage.
   

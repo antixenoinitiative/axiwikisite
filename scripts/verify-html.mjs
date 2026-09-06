@@ -39,6 +39,7 @@ function runTests() {
   let warnings = []
   let totalImagesChecked = 0
   let totalRawTagChecks = 0
+  let totalTabsetsChecked = 0
 
   // Expected locales
   const expectedLocales = ['', 'de', 'fr', 'es', 'it', 'ru', 'tr']
@@ -99,6 +100,17 @@ function runTests() {
       errors.push(`Uncompiled custom Vue component tag found in ${relPath}: ${uncompiledComponents.join(', ')}`)
     }
 
+    // 3b. Verify that all tab navigation containers have rendered tab buttons (SSR validation)
+    if (content.includes('class="axi-tab-nav"')) {
+      const navMatches = content.matchAll(/<div class="axi-tab-nav"[^>]*>(.*?)<\/div>/gs)
+      for (const match of navMatches) {
+        totalTabsetsChecked++
+        if (!match[1].includes('<button')) {
+          errors.push(`Empty axi-tab-nav without rendered buttons in ${relPath}`)
+        }
+      }
+    }
+
     // 4. Verify all local image assets referenced in <img> tags exist
     const imgMatches = content.matchAll(/<img[^>]+src=["']([^"']+)["']/gi)
     for (const match of imgMatches) {
@@ -111,7 +123,7 @@ function runTests() {
       if (src.startsWith('/') && !src.startsWith('//') && !src.startsWith('/assets/')) {
         totalImagesChecked++
         const cleanPath = src.split('?')[0].split('#')[0].replace(/^\//, '')
-        const localImgPath = path.join(DIST_DIR, cleanPath)
+        const localImgPath = path.join(path.resolve('docs/public'), cleanPath)
         if (!fs.existsSync(localImgPath)) {
           errors.push(`Broken local image reference in ${relPath}: "${match[1]}" (File not found at ${cleanPath})`)
         }
@@ -120,6 +132,7 @@ function runTests() {
   }
 
   console.log(`✅ Checked ${htmlFiles.length} pages for document structure.`)
+  console.log(`✅ Checked ${totalTabsetsChecked} interactive tabsets for rendered SSR buttons.`)
   console.log(`✅ Checked ${totalImagesChecked} local image references for 404s.`)
   console.log(`✅ Checked all code blocks for accidental raw HTML leaks.`)
   console.log(`✅ Verified homepage presence for all 7 locales (en, de, fr, es, it, ru, tr).\n`)

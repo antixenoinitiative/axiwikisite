@@ -1,42 +1,26 @@
-<template>
-  <div v-show="isActive" class="axi-tab-panel" role="tabpanel">
-    <slot />
-  </div>
-</template>
+<script>
+import { defineComponent, inject, computed, h } from 'vue'
 
-<script setup>
-import { ref, inject, onMounted, onUnmounted } from 'vue'
+export default defineComponent({
+  name: 'AxiTab',
+  props: {
+    title: {
+      type: String,
+      required: true
+    }
+  },
+  setup(props, { slots }) {
+    const activeAxiTab = inject('activeAxiTab', null)
+    const isActive = computed(() => {
+      if (!activeAxiTab || !activeAxiTab.value) return true
+      return activeAxiTab.value === props.title
+    })
 
-const props = defineProps({
-  title: {
-    type: String,
-    required: true
-  }
-})
-
-const isActive = ref(false)
-const axiTabs = inject('axiTabs', null)
-
-const tab = {
-  title: props.title,
-  isActive
-}
-
-onMounted(() => {
-  if (axiTabs) {
-    axiTabs.registerTab(tab)
-  }
-})
-
-onUnmounted(() => {
-  if (axiTabs) {
-    axiTabs.unregisterTab(tab)
+    return () => h('div', {
+      class: 'axi-tab-panel',
+      role: 'tabpanel',
+      style: isActive.value ? null : { display: 'none' }
+    }, slots.default ? slots.default() : [])
   }
 })
 </script>
-
-<style scoped>
-.axi-tab-panel {
-  width: 100%;
-}
-</style>

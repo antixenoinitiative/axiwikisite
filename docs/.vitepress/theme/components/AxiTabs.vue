@@ -1,103 +1,46 @@
-<template>
-  <div class="axi-tabs">
-    <div class="axi-tab-nav" role="tablist">
-      <button
-        v-for="(tab, index) in tabs"
-        :key="index"
-        role="tab"
-        :aria-selected="activeIndex === index"
-        :class="['axi-tab-btn', { active: activeIndex === index }]"
-        @click="selectTab(index)"
-      >
-        {{ tab.title }}
-      </button>
-    </div>
-    <div class="axi-tab-body">
-      <slot />
-    </div>
-  </div>
-</template>
+<script>
+import { defineComponent, ref, provide, h } from 'vue'
 
-<script setup>
-import { ref, provide } from 'vue'
+export default defineComponent({
+  name: 'AxiTabs',
+  setup(props, { slots }) {
+    const activeTab = ref('')
+    provide('activeAxiTab', activeTab)
 
-const tabs = ref([])
-const activeIndex = ref(0)
+    return () => {
+      const children = slots.default ? slots.default() : []
+      const tabs = []
+      function collect(nodes) {
+        for (const n of nodes) {
+          if (!n) continue
+          if (n.props && n.props.title) {
+            tabs.push(n.props.title)
+          } else if (Array.isArray(n.children)) {
+            collect(n.children)
+          }
+        }
+      }
+      collect(children)
 
-const registerTab = (tab) => {
-  tabs.value.push(tab)
-  if (tabs.value.length === 1) {
-    tab.isActive.value = true
+      if (!activeTab.value && tabs.length > 0) {
+        activeTab.value = tabs[0]
+      }
+
+      return h('div', { class: 'axi-tabs' }, [
+        h('div', { class: 'axi-tab-nav', role: 'tablist' },
+          tabs.map(title =>
+            h('button', {
+              role: 'tab',
+              type: 'button',
+              'aria-selected': activeTab.value === title,
+              class: ['axi-tab-btn', activeTab.value === title ? 'active' : ''],
+              onClick: () => { activeTab.value = title }
+            }, title)
+          )
+        ),
+        h('div', { class: 'axi-tab-body' }, children)
+      ])
+    }
   }
-}
-
-const unregisterTab = (tab) => {
-  const idx = tabs.value.indexOf(tab)
-  if (idx !== -1) {
-    tabs.value.splice(idx, 1)
-  }
-}
-
-const selectTab = (index) => {
-  activeIndex.value = index
-  tabs.value.forEach((tab, i) => {
-    tab.isActive.value = (i === index)
-  })
-}
-
-provide('axiTabs', {
-  registerTab,
-  unregisterTab,
-  activeIndex
 })
 </script>
-
-<style scoped>
-.axi-tabs {
-  margin: 1.5rem 0;
-  border: 1px solid var(--vp-c-border);
-  border-radius: 8px;
-  background: var(--vp-c-bg-soft);
-  overflow: hidden;
-}
-
-.axi-tab-nav {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 4px;
-  padding: 8px 8px 0;
-  background: #101010;
-  border-bottom: 1px solid var(--vp-c-border);
-}
-
-.axi-tab-btn {
-  padding: 8px 16px;
-  font-size: 0.95rem;
-  font-weight: 600;
-  color: var(--vp-c-text-2);
-  background: transparent;
-  border: none;
-  border-radius: 6px 6px 0 0;
-  cursor: pointer;
-  transition: all 0.2s ease;
-  position: relative;
-  bottom: -1px;
-}
-
-.axi-tab-btn:hover {
-  color: var(--vp-c-brand-1);
-  background: rgba(255, 113, 0, 0.08);
-}
-
-.axi-tab-btn.active {
-  color: var(--vp-c-brand-1);
-  background: var(--vp-c-bg-soft);
-  border: 1px solid var(--vp-c-border);
-  border-bottom: 1px solid var(--vp-c-bg-soft);
-  font-weight: 700;
-}
-
-.axi-tab-body {
-  padding: 1.5rem;
-}
-</style>
