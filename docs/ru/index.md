@@ -33,7 +33,7 @@ hero:
   <div class="axi-intro-badge">ИНСТРУКТАЖ ПИЛОТОВ // СИСТЕМНЫЙ АРХИВ</div>
   <div class="axi-intro-body">
     <p><strong>Добро пожаловать на Anti-Xeno Initiative Wiki</strong> — основную базу знаний по анти-таргоидским (AX) операциям в <em>Elite: Dangerous</em>. Руководства, созданные опытными пилотами, наставниками и исследователями сообщества AXI, помогут вам пройти путь от уничтожения первого скаута до победы над «Гидрой» в одиночку.</p>
-    <p>Впервые в бою с таргоидами? Начните с нашего <a href="/ru/basic-combat-guide">Базового руководства по бою</a> или присоединяйтесь к официальному серверу <a href="https://antixenoinitiative.com/discord" target="_blank" rel="noopener">AXI Discord</a> для живого обучения и совместных вылетов в крыле.</p>
+    <p>Впервые в бою с таргоидами? Начните с нашего <a :href="withBase('/ru/basic-combat-guide')">Базового руководства по бою</a> или присоединяйтесь к официальному серверу <a href="https://antixenoinitiative.com/discord" target="_blank" rel="noopener">AXI Discord</a> для живого обучения и совместных вылетов в крыле.</p>
   </div>
 </div>
 
@@ -50,10 +50,10 @@ hero:
     </div>
     <div class="topic-card-desc">Оптимизированное оснащение, теория бесщитовых сборок и специализированные конфигурации.</div>
     <div class="topic-card-links">
-      <a href="/ru/builds" class="topic-card-link"><span>Рекомендуемые сборки</span><span class="link-arrow">→</span></a>
-      <a href="/ru/shipbuildtheory" class="topic-card-link"><span>Теория сборки</span><span class="link-arrow">→</span></a>
-      <a href="/ru/buildrepository" class="topic-card-link"><span>Репозиторий сборок</span><span class="link-arrow">→</span></a>
-      <a href="/ru/speedrunbuilds" class="topic-card-link"><span>Спидран-сборки</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/ru/builds')" class="topic-card-link"><span>Рекомендуемые сборки</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/ru/shipbuildtheory')" class="topic-card-link"><span>Теория сборки</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/ru/buildrepository')" class="topic-card-link"><span>Репозиторий сборок</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/ru/speedrunbuilds')" class="topic-card-link"><span>Спидран-сборки</span><span class="link-arrow">→</span></a>
     </div>
   </div>
 
@@ -64,10 +64,10 @@ hero:
     </div>
     <div class="topic-card-desc">Освойте холодную орбиту, эффективное уничтожение сердец и тактики боя в крыле и соло.</div>
     <div class="topic-card-links">
-      <a href="/ru/basic-combat-guide" class="topic-card-link"><span>Базовое руководство</span><span class="link-arrow">→</span></a>
-      <a href="/ru/advanced-combat-guide" class="topic-card-link"><span>Продвинутый бой</span><span class="link-arrow">→</span></a>
-      <a href="/ru/cold-orbiting" class="topic-card-link"><span>Холодная орбита</span><span class="link-arrow">→</span></a>
-      <a href="/ru/combat-speedrunning" class="topic-card-link"><span>Руководство по спидранам</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/ru/basic-combat-guide')" class="topic-card-link"><span>Базовое руководство</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/ru/advanced-combat-guide')" class="topic-card-link"><span>Продвинутый бой</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/ru/cold-orbiting')" class="topic-card-link"><span>Холодная орбита</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/ru/combat-speedrunning')" class="topic-card-link"><span>Руководство по спидранам</span><span class="link-arrow">→</span></a>
     </div>
   </div>
 
@@ -78,10 +78,10 @@ hero:
     </div>
     <div class="topic-card-desc">Характеристики перехватчиков, сердца, последовательности атак и поиск активных зон.</div>
     <div class="topic-card-links">
-      <a href="/ru/finding-thargoids" class="topic-card-link"><span>Как найти таргоидов</span><span class="link-arrow">→</span></a>
-      <a href="/ru/interceptors" class="topic-card-link"><span>Перехватчики</span><span class="link-arrow">→</span></a>
-      <a href="/ru/special-attacks" class="topic-card-link"><span>Специальные атаки</span><span class="link-arrow">→</span></a>
-      <a href="/ru/thargon-swarms" class="topic-card-link"><span>Таргонские рои</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/ru/finding-thargoids')" class="topic-card-link"><span>Как найти таргоидов</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/ru/interceptors')" class="topic-card-link"><span>Перехватчики</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/ru/special-attacks')" class="topic-card-link"><span>Специальные атаки</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/ru/thargon-swarms')" class="topic-card-link"><span>Таргонские рои</span><span class="link-arrow">→</span></a>
     </div>
   </div>
 </div>

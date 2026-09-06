@@ -33,7 +33,7 @@ hero:
   <div class="axi-intro-badge">BRIEFING PILOTE // ARCHIVES SYSTÈME</div>
   <div class="axi-intro-body">
     <p><strong>Bienvenue sur le Wiki de l'Anti-Xeno Initiative</strong> — la base de connaissances principale pour le combat Anti-Xéno (AX) dans <em>Elite: Dangerous</em>. Conçus et maintenus par les pilotes expérimentés, mentors et chercheurs de la communauté AXI, ces guides vous accompagnent de votre premier Éclaireur abattu jusqu'à la victoire en solo contre un Hydra.</p>
-    <p>Nouveau dans le combat Thargoid ? Commencez par notre <a href="/fr/basic-combat-guide">Guide de Combat de Base</a> ou rejoignez le serveur officiel <a href="https://antixenoinitiative.com/discord" target="_blank" rel="noopener">AXI Discord</a> pour du mentorat en direct et des escadrilles actives.</p>
+    <p>Nouveau dans le combat Thargoid ? Commencez par notre <a :href="withBase('/fr/basic-combat-guide')">Guide de Combat de Base</a> ou rejoignez le serveur officiel <a href="https://antixenoinitiative.com/discord" target="_blank" rel="noopener">AXI Discord</a> pour du mentorat en direct et des escadrilles actives.</p>
   </div>
 </div>
 
@@ -50,10 +50,10 @@ hero:
     </div>
     <div class="topic-card-desc">Configurations de combat optimisées, théorie sans bouclier et vaisseaux communautaires spécialisés.</div>
     <div class="topic-card-links">
-      <a href="/fr/builds" class="topic-card-link"><span>Équipements Recommandés</span><span class="link-arrow">→</span></a>
-      <a href="/fr/shipbuildtheory" class="topic-card-link"><span>Théorie d'Équipement</span><span class="link-arrow">→</span></a>
-      <a href="/fr/buildrepository" class="topic-card-link"><span>Répertoire de Builds</span><span class="link-arrow">→</span></a>
-      <a href="/fr/speedrunbuilds" class="topic-card-link"><span>Builds de Speedrun</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/fr/builds')" class="topic-card-link"><span>Équipements Recommandés</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/fr/shipbuildtheory')" class="topic-card-link"><span>Théorie d'Équipement</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/fr/buildrepository')" class="topic-card-link"><span>Répertoire de Builds</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/fr/speedrunbuilds')" class="topic-card-link"><span>Builds de Speedrun</span><span class="link-arrow">→</span></a>
     </div>
   </div>
 
@@ -64,10 +64,10 @@ hero:
     </div>
     <div class="topic-card-desc">Maîtrisez l'orbite à froid, exposez les cœurs efficacement et apprenez les tactiques d'escadrille.</div>
     <div class="topic-card-links">
-      <a href="/fr/basic-combat-guide" class="topic-card-link"><span>Guide de Combat de Base</span><span class="link-arrow">→</span></a>
-      <a href="/fr/advanced-combat-guide" class="topic-card-link"><span>Guide Avancé</span><span class="link-arrow">→</span></a>
-      <a href="/fr/cold-orbiting" class="topic-card-link"><span>Orbite à Froid</span><span class="link-arrow">→</span></a>
-      <a href="/fr/combat-speedrunning" class="topic-card-link"><span>Guide de Speedrunning</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/fr/basic-combat-guide')" class="topic-card-link"><span>Guide de Combat de Base</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/fr/advanced-combat-guide')" class="topic-card-link"><span>Guide Avancé</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/fr/cold-orbiting')" class="topic-card-link"><span>Orbite à Froid</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/fr/combat-speedrunning')" class="topic-card-link"><span>Guide de Speedrunning</span><span class="link-arrow">→</span></a>
     </div>
   </div>
 
@@ -78,10 +78,10 @@ hero:
     </div>
     <div class="topic-card-desc">Données sur les classes d'Intercepteurs, cœurs, séquences d'attaque et zones de combat actives.</div>
     <div class="topic-card-links">
-      <a href="/fr/finding-thargoids" class="topic-card-link"><span>Trouver des Thargoids</span><span class="link-arrow">→</span></a>
-      <a href="/fr/interceptors" class="topic-card-link"><span>Intercepteurs Thargoids</span><span class="link-arrow">→</span></a>
-      <a href="/fr/special-attacks" class="topic-card-link"><span>Attaques Spéciales</span><span class="link-arrow">→</span></a>
-      <a href="/fr/thargon-swarms" class="topic-card-link"><span>Essaims de Thargons</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/fr/finding-thargoids')" class="topic-card-link"><span>Trouver des Thargoids</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/fr/interceptors')" class="topic-card-link"><span>Intercepteurs Thargoids</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/fr/special-attacks')" class="topic-card-link"><span>Attaques Spéciales</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/fr/thargon-swarms')" class="topic-card-link"><span>Essaims de Thargons</span><span class="link-arrow">→</span></a>
     </div>
   </div>
 </div>

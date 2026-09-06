@@ -51,7 +51,18 @@ function runTests() {
     }
   }
 
-  const rawBase = process.env.BASE_PATH
+  let rawBase = process.env.BASE_PATH
+  if (!rawBase) {
+    // Auto-detect base path from built index.html assets
+    const indexPath = path.join(DIST_DIR, 'index.html')
+    if (fs.existsSync(indexPath)) {
+      const indexHtml = fs.readFileSync(indexPath, 'utf-8')
+      const assetMatch = indexHtml.match(/(?:href|src)=["']([^"']*?)\/assets\//)
+      if (assetMatch && assetMatch[1]) {
+        rawBase = assetMatch[1]
+      }
+    }
+  }
   const basePath = (!rawBase || rawBase === '/')
     ? '/'
     : (rawBase.startsWith('/') ? rawBase : `/${rawBase}`).replace(/\/?$/, '/')

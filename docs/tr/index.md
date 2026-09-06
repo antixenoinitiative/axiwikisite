@@ -33,7 +33,7 @@ hero:
   <div class="axi-intro-badge">PİLOT BİLGİLENDİRMESİ // SİSTEM ARŞİVİ</div>
   <div class="axi-intro-body">
     <p><strong>Anti-Xeno Initiative Wiki'sine Hoş Geldiniz</strong> — <em>Elite: Dangerous</em> evreninde Anti-Xeno (AX) savaşları için ana bilgi kaynağı. AXI topluluğunun deneyimli pilotları, mentörleri ve araştırmacıları tarafından hazırlanan bu rehberler, ilk Scout avınızdan tek başınıza Hydra yok etmeye kadar size rehberlik eder.</p>
-    <p>Thargoid savaşında yeni misiniz? <a href="/tr/basic-combat-guide">Temel Savaş Rehberimiz</a> ile başlayın veya binlerce aktif AX pilotuyla buluşup canlı destek ve filo çağrıları almak için resmi <a href="https://antixenoinitiative.com/discord" target="_blank" rel="noopener">AXI Discord Sunucusuna</a> katılın.</p>
+    <p>Thargoid savaşında yeni misiniz? <a :href="withBase('/tr/basic-combat-guide')">Temel Savaş Rehberimiz</a> ile başlayın veya binlerce aktif AX pilotuyla buluşup canlı destek ve filo çağrıları almak için resmi <a href="https://antixenoinitiative.com/discord" target="_blank" rel="noopener">AXI Discord Sunucusuna</a> katılın.</p>
   </div>
 </div>
 
@@ -50,10 +50,10 @@ hero:
     </div>
     <div class="topic-card-desc">Optimize edilmiş savaş donatımları, kalkansız mühendislik teorisi ve özel topluluk tasarımları.</div>
     <div class="topic-card-links">
-      <a href="/tr/builds" class="topic-card-link"><span>Önerilen Gemiler</span><span class="link-arrow">→</span></a>
-      <a href="/tr/shipbuildtheory" class="topic-card-link"><span>Gemi Tasarım Teorisi</span><span class="link-arrow">→</span></a>
-      <a href="/tr/buildrepository" class="topic-card-link"><span>Donatım Havuzu</span><span class="link-arrow">→</span></a>
-      <a href="/tr/speedrunbuilds" class="topic-card-link"><span>Hız Yarışı Gemileri</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/tr/builds')" class="topic-card-link"><span>Önerilen Gemiler</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/tr/shipbuildtheory')" class="topic-card-link"><span>Gemi Tasarım Teorisi</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/tr/buildrepository')" class="topic-card-link"><span>Donatım Havuzu</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/tr/speedrunbuilds')" class="topic-card-link"><span>Hız Yarışı Gemileri</span><span class="link-arrow">→</span></a>
     </div>
   </div>
 
@@ -64,10 +64,10 @@ hero:
     </div>
     <div class="topic-card-desc">Soğuk yörüngeyi öğrenin, kalpleri verimli şekilde açığa çıkarın ve filo taktiklerinde ustalaşın.</div>
     <div class="topic-card-links">
-      <a href="/tr/basic-combat-guide" class="topic-card-link"><span>Temel Savaş Rehberi</span><span class="link-arrow">→</span></a>
-      <a href="/tr/advanced-combat-guide" class="topic-card-link"><span>İleri Düzey Savaş</span><span class="link-arrow">→</span></a>
-      <a href="/tr/cold-orbiting" class="topic-card-link"><span>Soğuk Yörünge</span><span class="link-arrow">→</span></a>
-      <a href="/tr/combat-speedrunning" class="topic-card-link"><span>Hız Mücadelesi Rehberi</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/tr/basic-combat-guide')" class="topic-card-link"><span>Temel Savaş Rehberi</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/tr/advanced-combat-guide')" class="topic-card-link"><span>İleri Düzey Savaş</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/tr/cold-orbiting')" class="topic-card-link"><span>Soğuk Yörünge</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/tr/combat-speedrunning')" class="topic-card-link"><span>Hız Mücadelesi Rehberi</span><span class="link-arrow">→</span></a>
     </div>
   </div>
 
@@ -78,10 +78,10 @@ hero:
     </div>
     <div class="topic-card-desc">Interceptor sınıfları, kalpler, saldırı dizilimleri ve çatışma bölgeleri hakkında istihbarat.</div>
     <div class="topic-card-links">
-      <a href="/tr/finding-thargoids" class="topic-card-link"><span>Thargoidleri Bulma</span><span class="link-arrow">→</span></a>
-      <a href="/tr/interceptors" class="topic-card-link"><span>Thargoid Interceptorler</span><span class="link-arrow">→</span></a>
-      <a href="/tr/special-attacks" class="topic-card-link"><span>Özel Saldırılar</span><span class="link-arrow">→</span></a>
-      <a href="/tr/thargon-swarms" class="topic-card-link"><span>Thargon Sürüleri</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/tr/finding-thargoids')" class="topic-card-link"><span>Thargoidleri Bulma</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/tr/interceptors')" class="topic-card-link"><span>Thargoid Interceptorler</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/tr/special-attacks')" class="topic-card-link"><span>Özel Saldırılar</span><span class="link-arrow">→</span></a>
+      <a :href="withBase('/tr/thargon-swarms')" class="topic-card-link"><span>Thargon Sürüleri</span><span class="link-arrow">→</span></a>
     </div>
   </div>
 </div>
