@@ -51,6 +51,11 @@ function runTests() {
     }
   }
 
+  const rawBase = process.env.BASE_PATH
+  const basePath = (!rawBase || rawBase === '/')
+    ? '/'
+    : (rawBase.startsWith('/') ? rawBase : `/${rawBase}`).replace(/\/?$/, '/')
+
   for (const filePath of htmlFiles) {
     const relPath = path.relative(DIST_DIR, filePath)
     const content = fs.readFileSync(filePath, 'utf-8')
@@ -86,14 +91,18 @@ function runTests() {
     // 4. Verify all local image assets referenced in <img> tags exist
     const imgMatches = content.matchAll(/<img[^>]+src=["']([^"']+)["']/gi)
     for (const match of imgMatches) {
-      const src = match[1]
+      let src = match[1]
+      // Strip base path prefix if VitePress prepended it
+      if (basePath !== '/' && src.startsWith(basePath)) {
+        src = '/' + src.slice(basePath.length)
+      }
       // Check only local root-relative images (skip http, data URLs, etc.)
       if (src.startsWith('/') && !src.startsWith('//') && !src.startsWith('/assets/')) {
         totalImagesChecked++
         const cleanPath = src.split('?')[0].split('#')[0].replace(/^\//, '')
         const localImgPath = path.join(DIST_DIR, cleanPath)
         if (!fs.existsSync(localImgPath)) {
-          errors.push(`Broken local image reference in ${relPath}: "${src}" (File not found at ${cleanPath})`)
+          errors.push(`Broken local image reference in ${relPath}: "${match[1]}" (File not found at ${cleanPath})`)
         }
       }
     }

@@ -139,10 +139,17 @@ function createLocaleSidebar(prefix: string) {
   ]
 }
 
+const getBasePath = () => {
+  const p = process.env.BASE_PATH
+  if (!p || p === '/') return '/'
+  const withLeading = p.startsWith('/') ? p : `/${p}`
+  return withLeading.endsWith('/') ? withLeading : `${withLeading}/`
+}
+
 export default defineConfig({
   title: 'Anti-Xeno Initiative Wiki',
   description: 'Your complete repository for Anti-Xeno Combat in Elite: Dangerous.',
-  base: process.env.BASE_PATH || '/',
+  base: getBasePath(),
   cleanUrls: true,
   ignoreDeadLinks: true,
 
